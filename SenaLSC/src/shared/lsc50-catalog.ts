@@ -1,0 +1,71 @@
+export interface Lsc50Sign {
+  classId: string;
+  phrase: string;
+  slug: string;
+  durationMs: number;
+  aliases?: readonly string[];
+}
+
+export const LSC50_SOURCE = {
+  title: "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+  authors: "Christian Cifuentes-De la Portilla; Luis Felipe Giraldo; Brayan David Solórzano Quevedo",
+  paperAuthors: "Andrés Felipe Flórez-Sierra; Brayan David Solórzano; Fredy Segura-Quijano; Yenny Milena Cortés-Bello; Luis Cubillos; Luis Felipe Giraldo; Christian Cifuentes-De la Portilla",
+  year: 2024,
+  doi: "10.6084/m9.figshare.27383016.v1",
+  url: "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016",
+  license: "CC BY 4.0",
+  licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+} as const;
+
+export const LSC50_SIGNS: readonly Lsc50Sign[] = [
+  { classId: "0000", phrase: "Gracias", slug: "gracias", durationMs: 2458 },
+  { classId: "0001", phrase: "Buenos días", slug: "buenos-dias", durationMs: 2417 },
+  { classId: "0002", phrase: "Buenas tardes", slug: "buenas-tardes", durationMs: 3292 },
+  { classId: "0003", phrase: "Buenas noches", slug: "buenas-noches", durationMs: 3250 },
+  { classId: "0004", phrase: "Seña", slug: "sena", durationMs: 3000 },
+  { classId: "0005", phrase: "Nombre", slug: "nombre", durationMs: 3333 },
+  { classId: "0006", phrase: "Trabajar", slug: "trabajar", durationMs: 3208, aliases: ["Trabajo"] },
+  { classId: "0007", phrase: "Comer", slug: "comer", durationMs: 3375 },
+  { classId: "0008", phrase: "Vivir", slug: "vivir", durationMs: 2958 },
+  { classId: "0009", phrase: "Poco", slug: "poco", durationMs: 2875 },
+  { classId: "0010", phrase: "Familia", slug: "familia", durationMs: 3083 },
+  { classId: "0011", phrase: "Personas", slug: "personas", durationMs: 2792 },
+  { classId: "0012", phrase: "Mujer", slug: "mujer", durationMs: 2333 },
+  { classId: "0013", phrase: "Hombre", slug: "hombre", durationMs: 2958 },
+  { classId: "0014", phrase: "Niño", slug: "nino", durationMs: 3042 },
+  { classId: "0015", phrase: "Niña", slug: "nina", durationMs: 2958 },
+  { classId: "0016", phrase: "Abuelo", slug: "abuelo", durationMs: 4333 },
+  { classId: "0017", phrase: "Tío", slug: "tio", durationMs: 3333 },
+  { classId: "0018", phrase: "Hermano", slug: "hermano", durationMs: 4083 },
+  { classId: "0019", phrase: "Hambre", slug: "hambre", durationMs: 3417 },
+  { classId: "0020", phrase: "Feliz", slug: "feliz", durationMs: 2917 },
+  { classId: "0021", phrase: "Contento", slug: "contento", durationMs: 2917 },
+  { classId: "0022", phrase: "Triste", slug: "triste", durationMs: 3292 },
+  { classId: "0023", phrase: "Aburrido", slug: "aburrido", durationMs: 3417 },
+  { classId: "0024", phrase: "Bien", slug: "bien", durationMs: 3292 },
+  { classId: "0025", phrase: "Mal", slug: "mal", durationMs: 3333 },
+  { classId: "0026", phrase: "¿Cómo estás?", slug: "como-estas", durationMs: 3083, aliases: ["Cómo está", "Cómo están", "Como esta", "Como estan"] },
+  { classId: "0027", phrase: "Más o menos", slug: "mas-o-menos", durationMs: 2833 },
+  { classId: "0028", phrase: "Sentir", slug: "sentir", durationMs: 3292 },
+  { classId: "0029", phrase: "Juicioso", slug: "juicioso", durationMs: 2958 },
+  { classId: "0030", phrase: "Hola", slug: "hola", durationMs: 5625 },
+  { classId: "0031", phrase: "Adiós", slug: "adios", durationMs: 2917 },
+  { classId: "0032", phrase: "Por favor", slug: "por-favor", durationMs: 2917 },
+  { classId: "0033", phrase: "Con gusto", slug: "con-gusto", durationMs: 2542 },
+  { classId: "0034", phrase: "Bienvenido", slug: "bienvenido", durationMs: 2708 },
+  { classId: "0035", phrase: "Perdón", slug: "perdon", durationMs: 3167 },
+  { classId: "0036", phrase: "Permiso", slug: "permiso", durationMs: 2833 },
+  { classId: "0037", phrase: "Nunca", slug: "nunca", durationMs: 2958 },
+  { classId: "0038", phrase: "Yo", slug: "yo", durationMs: 2542 },
+  { classId: "0039", phrase: "Tú", slug: "tu", durationMs: 3375 },
+  { classId: "0040", phrase: "Ustedes", slug: "ustedes", durationMs: 3000 },
+  { classId: "0041", phrase: "¿Qué?", slug: "que", durationMs: 3083 },
+  { classId: "0042", phrase: "¿Cuándo?", slug: "cuando", durationMs: 2958 },
+  { classId: "0043", phrase: "¿Dónde?", slug: "donde", durationMs: 2708 },
+  { classId: "0044", phrase: "¿Cómo?", slug: "como", durationMs: 2708 },
+  { classId: "0045", phrase: "¿Por qué?", slug: "por-que", durationMs: 3000 },
+  { classId: "0046", phrase: "¿Quién?", slug: "quien", durationMs: 2958 },
+  { classId: "0047", phrase: "Diferente", slug: "diferente", durationMs: 3083 },
+  { classId: "0048", phrase: "Todos", slug: "todos", durationMs: 2958 },
+  { classId: "0049", phrase: "Mucho", slug: "mucho", durationMs: 2708 },
+];
