@@ -1,0 +1,158 @@
+{
+  "name": "senalsc",
+  "version": "0.1.0",
+  "description": "Subtítulos offline en español con apoyo visual preparado para incorporar vocabulario LSC validado.",
+  "desktopName": "SenaLSC",
+  "main": "dist-electron/main/index.js",
+  "author": "Proyecto académico SENA",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "brand:prepare": "node scripts/prepare-brand-assets.mjs",
+    "clean": "node scripts/clean.mjs",
+    "dev": "npm run build:electron && concurrently -k \"vite --host 127.0.0.1\" \"tsc -p tsconfig.main.json --watch --preserveWatchOutput\" \"wait-on tcp:5173 && cross-env VITE_DEV_SERVER_URL=http://127.0.0.1:5173 electron .\"",
+    "build": "npm run clean && npm run build:renderer && npm run build:electron",
+    "build:renderer": "vite build",
+    "build:electron": "tsc -p tsconfig.main.json",
+    "typecheck": "tsc -p tsconfig.renderer.json --noEmit && tsc -p tsconfig.main.json --noEmit",
+    "lint": "eslint .",
+    "test": "vitest run --config vitest.config.mjs",
+    "test:watch": "vitest --config vitest.config.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "smoke:gui": "npm run build && node scripts/gui-smoke.mjs",
+    "benchmark:audio": "npm run build:electron && node scripts/benchmark-audio.mjs",
+    "benchmark:asr": "node scripts/benchmark-asr.mjs",
+    "e2e:visual": "node scripts/visual-flow-e2e.mjs",
+    "verify": "npm run lint && npm run typecheck && npm test && npm run build && npm run smoke",
+    "model:download": "node scripts/descargar-modelo.mjs",
+    "model:download:large": "node scripts/descargar-modelo-grande.mjs",
+    "corpus:prepare:univalle": "node scripts/preparar-univalle.mjs",
+    "corpus:prepare:expresa": "node scripts/prepare-expresa-assets.mjs",
+    "sidecar:setup": "python3 -m venv .venv && .venv/bin/python -m pip install -r sidecar/requirements.txt",
+    "package:linux": "npm run build && electron-builder --linux AppImage --publish never",
+    "package:win:preflight": "node scripts/preflight-win.mjs",
+    "package:win": "npm run package:win:preflight && npm run build && electron-builder --win nsis portable --x64 --publish never",
+    "package:win:demo": "cross-env VITE_SENALSC_DEMO=1 npm run build && electron-builder --config electron-builder.demo.yml --win portable --x64 --publish never",
+    "package:win:candidate": "npm run build && electron-builder --config electron-builder.candidate.yml --win portable --x64 --publish never",
+    "package:win:usb-candidate": "npm run package:win:candidate && node scripts/build-windows-usb.mjs",
+    "asr:embedded:prepare": "node scripts/prepare-embedded-asr.mjs",
+    "package:win:complete:preflight": "node scripts/preflight-win-complete.mjs",
+    "package:win:complete": "npm run asr:embedded:prepare && npm run package:win:complete:preflight && npm run build && electron-builder --config electron-builder.complete.yml --win portable --x64 --publish never && node scripts/inspect-win-complete.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@electron-internal/extract-zip": "1.0.5",
+    "@eslint/js": "10.0.1",
+    "@types/node": "26.4.1",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.5",
+    "@vitejs/plugin-react": "6.1.1",
+    "concurrently": "10.0.5",
+    "cross-env": "10.1.0",
+    "electron": "44.1.1",
+    "electron-builder": "26.15.3",
+    "eslint": "10.9.1",
+    "eslint-plugin-react-hooks": "7.1.1",
+    "tar": "7.5.22",
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.69.0",
+    "vite": "8.2.2",
+    "vitest": "4.1.11",
+    "wait-on": "9.1.0"
+  },
+  "build": {
+    "appId": "co.edu.sena.senalsc",
+    "productName": "SenaLSC",
+    "asar": true,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*",
+      "package.json",
+      "THIRD_PARTY_NOTICES.md"
+    ],
+    "extraResources": [
+      {
+        "from": "sidecar",
+        "to": "sidecar",
+        "filter": [
+          "asr.py",
+          "requirements.txt"
+        ]
+      },
+      {
+        "from": "sidecar-bin",
+        "to": "sidecar",
+        "filter": [
+          "senalsc-asr.exe"
+        ]
+      },
+      {
+        "from": "assets/lsc",
+        "to": "assets/lsc",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": "assets/icons",
+        "to": "assets/icons",
+        "filter": [
+          "icon*.png",
+          "tray-*.png"
+        ]
+      },
+      {
+        "from": "assets/brand",
+        "to": "assets/brand",
+        "filter": [
+          "*.png",
+          "README.md"
+        ]
+      }
+    ],
+    "win": {
+      "icon": "assets/icons/icon.ico",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "artifactName": "SenaLSC-Setup-${version}-${arch}.${ext}",
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "SenaLSC"
+    },
+    "portable": {
+      "artifactName": "SenaLSC-Portable-${version}-${arch}.${ext}"
+    },
+    "linux": {
+      "icon": "assets/icons/icon.png",
+      "target": [
+        "AppImage"
+      ],
+      "category": "Education",
+      "synopsis": "Subtítulos offline y apoyo visual LSC",
+      "syncDesktopName": true,
+      "artifactName": "SenaLSC-${version}-${arch}.${ext}"
+    }
+  }
+}

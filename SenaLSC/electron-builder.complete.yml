@@ -1,0 +1,50 @@
+appId: co.edu.sena.senalsc
+productName: SenaLSC
+asar: true
+removePackageScripts: true
+directories:
+  output: release
+files:
+  - dist/**/*
+  - dist-electron/**/*
+  - package.json
+extraMetadata:
+  desktopName: SenaLSC
+  senalscDistribution: complete-windows
+extraResources:
+  - from: resources/embedded-asr
+    to: embedded-asr
+    filter:
+      - "**/*"
+  - from: sidecar
+    to: sidecar
+    filter:
+      - asr.py
+  - from: models/vosk-model-small-es-0.42
+    to: models/vosk-model-small-es-0.42
+    filter:
+      - "**/*"
+  - from: assets/lsc
+    to: assets/lsc
+    filter:
+      - "**/*"
+  - from: assets/icons
+    to: assets/icons
+    filter:
+      - "icon*.png"
+      - "tray-*.png"
+  - from: assets/brand
+    to: assets/brand
+    filter:
+      - "*.png"
+      - README.md
+  - from: THIRD_PARTY_NOTICES.md
+    to: THIRD_PARTY_NOTICES.md
+win:
+  icon: assets/icons/icon.ico
+  target:
+    - target: portable
+      arch:
+        - x64
+portable:
+  artifactName: SenaLSC-Portable-Completo-${version}-${arch}.${ext}

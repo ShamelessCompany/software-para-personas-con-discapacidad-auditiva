@@ -1,0 +1,36 @@
+appId: co.edu.sena.senalsc.candidate
+productName: SenaLSC Windows Candidato No Validado
+asar: true
+directories:
+  output: release/candidate-build
+files:
+  - dist/**/*
+  - dist-electron/**/*
+  - package.json
+  - THIRD_PARTY_NOTICES.md
+extraMetadata:
+  desktopName: SenaLSC Windows Candidato No Validado
+  senalscDistribution: candidate-unvalidated-windows
+extraResources:
+  - from: assets/lsc
+    to: assets/lsc
+    filter:
+      - "**/*"
+  - from: assets/icons
+    to: assets/icons
+    filter:
+      - "icon*.png"
+      - "tray-*.png"
+  - from: assets/brand
+    to: assets/brand
+    filter:
+      - "*.png"
+      - README.md
+win:
+  icon: assets/icons/icon.ico
+  target:
+    - target: portable
+      arch:
+        - x64
+portable:
+  artifactName: SenaLSC-Windows-Candidato-NoValidado-${version}-${arch}.${ext}
