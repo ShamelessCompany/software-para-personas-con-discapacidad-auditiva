@@ -1,0 +1,1368 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-03T04:47:22.926Z",
+  "archive": {
+    "name": "VIDEOS.zip",
+    "url": "https://ndownloader.figshare.com/files/50118645",
+    "bytes": 6247307413,
+    "md5": "26003107442257c7947352b18e3c2597"
+  },
+  "selection": {
+    "videoType": "COLOR_BODY",
+    "volunteerId": "0000",
+    "repetitionId": "0000",
+    "participantHearingStatus": "not documented by encoded volunteer ID"
+  },
+  "clips": [
+    {
+      "classId": "0000",
+      "phrase": "Gracias",
+      "originalName": "VIDEOS/COLOR_BODY/0000_0000_0000.avi",
+      "originalSha256": "42527bb30f526a860e531183fcb982b6b87a7f7be7a0374cccccbada78c56517",
+      "originalBytes": 1626582,
+      "convertedName": "0000-gracias.mp4",
+      "convertedSha256": "768fa4ee783914148cc7f584b16e07b871cc0030fda44443744711b6246c6657",
+      "convertedBytes": 72283,
+      "durationMs": 2458,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0001",
+      "phrase": "Buenos días",
+      "originalName": "VIDEOS/COLOR_BODY/0001_0000_0000.avi",
+      "originalSha256": "6119f1d920be1b4787e3e6c254599f72c0a53a68c52338b175bdc8d8dfbdf6de",
+      "originalBytes": 1653182,
+      "convertedName": "0001-buenos-dias.mp4",
+      "convertedSha256": "c385595e5639df3fe068973e7cb49fcb633a6f303db1edb7ea55d042df611881",
+      "convertedBytes": 81771,
+      "durationMs": 2417,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0002",
+      "phrase": "Buenas tardes",
+      "originalName": "VIDEOS/COLOR_BODY/0002_0000_0000.avi",
+      "originalSha256": "1ee617aadc34382141724ec3d6ac6935d250ba9d498cd4a4baf6acb66895280d",
+      "originalBytes": 2189158,
+      "convertedName": "0002-buenas-tardes.mp4",
+      "convertedSha256": "48fcf88961263052077f0cb32e90710a41795489b0d5c6badfc79ce57ea77cfe",
+      "convertedBytes": 86290,
+      "durationMs": 3292,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0003",
+      "phrase": "Buenas noches",
+      "originalName": "VIDEOS/COLOR_BODY/0003_0000_0000.avi",
+      "originalSha256": "648480cf724d7c8181404b8d64b30672c7a5422a6978040523af9cad6a663113",
+      "originalBytes": 2189330,
+      "convertedName": "0003-buenas-noches.mp4",
+      "convertedSha256": "2c3b6af99629b5566bfb5294ab579fe3da0796b3781669a71802f760b459e9f7",
+      "convertedBytes": 89161,
+      "durationMs": 3250,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0004",
+      "phrase": "Seña",
+      "originalName": "VIDEOS/COLOR_BODY/0004_0000_0000.avi",
+      "originalSha256": "9b0da73d6970e9b34188ec857a3559f2154705df284cb910eb4ca6ec2938a280",
+      "originalBytes": 1966026,
+      "convertedName": "0004-sena.mp4",
+      "convertedSha256": "af80d641b0c751303fd8288fa1185bd99c5d3bd7e9d5a64ce4a64e234d1377e0",
+      "convertedBytes": 80554,
+      "durationMs": 3000,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0005",
+      "phrase": "Nombre",
+      "originalName": "VIDEOS/COLOR_BODY/0005_0000_0000.avi",
+      "originalSha256": "5b1e35be11f8d98a909a1e5ef1131d9ee2652f0461dee947f5d4a7e9beeb0935",
+      "originalBytes": 2180526,
+      "convertedName": "0005-nombre.mp4",
+      "convertedSha256": "f9b69b88d11995c9df350cbf684e0aa461253f5986a2ae6183e6a6b99d9af28a",
+      "convertedBytes": 83147,
+      "durationMs": 3333,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0006",
+      "phrase": "Trabajar",
+      "originalName": "VIDEOS/COLOR_BODY/0006_0000_0000.avi",
+      "originalSha256": "7794a2ddf363042b10fa9f810018b41919d599d6517d33cd81eb38b87aec665e",
+      "originalBytes": 2109232,
+      "convertedName": "0006-trabajar.mp4",
+      "convertedSha256": "fa06dd9680aa0781bb43b040ea9c9394c6fa2443850b5ad48e26b374c5eb0209",
+      "convertedBytes": 79822,
+      "durationMs": 3208,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0007",
+      "phrase": "Comer",
+      "originalName": "VIDEOS/COLOR_BODY/0007_0000_0000.avi",
+      "originalSha256": "ddf82dd35b866c4e2d3493a91a481a81465e00f4b3654115ccc757eaced5d736",
+      "originalBytes": 2170834,
+      "convertedName": "0007-comer.mp4",
+      "convertedSha256": "e6d06ff146a37f1138bf4863b86622849aeb6e04071c644ebde8996dc457cc3b",
+      "convertedBytes": 76070,
+      "durationMs": 3375,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0008",
+      "phrase": "Vivir",
+      "originalName": "VIDEOS/COLOR_BODY/0008_0000_0000.avi",
+      "originalSha256": "7d7ab5a76b9950ae6c32d1b1d1178f015e9652d7dd578c5f19f2ae88bfcbe1fb",
+      "originalBytes": 1946276,
+      "convertedName": "0008-vivir.mp4",
+      "convertedSha256": "d94accd8d4d33d71af608743a672843fce034367bb30cbf0272fb1bc1dd26439",
+      "convertedBytes": 77171,
+      "durationMs": 2958,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0009",
+      "phrase": "Poco",
+      "originalName": "VIDEOS/COLOR_BODY/0009_0000_0000.avi",
+      "originalSha256": "bed4c6d3917a52cbddacd67acc53d6ad486c67d0af9d986e97dd23f948fa04ca",
+      "originalBytes": 1838242,
+      "convertedName": "0009-poco.mp4",
+      "convertedSha256": "90ec7a65d8d461cdb54b0de03684777a81f0eb9416ff0ce411b64be2c9968dde",
+      "convertedBytes": 66908,
+      "durationMs": 2875,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0010",
+      "phrase": "Familia",
+      "originalName": "VIDEOS/COLOR_BODY/0010_0000_0000.avi",
+      "originalSha256": "21ca01d74f5ad7806a992cda750d340c1cd3ce17a4af3b07e6f5f4891b98a5ea",
+      "originalBytes": 2092446,
+      "convertedName": "0010-familia.mp4",
+      "convertedSha256": "8a838050e4a75bb9a6f94ef31ea83d17d70e88a841b57dbf5753b9d6e50eaba5",
+      "convertedBytes": 85539,
+      "durationMs": 3083,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0011",
+      "phrase": "Personas",
+      "originalName": "VIDEOS/COLOR_BODY/0011_0000_0000.avi",
+      "originalSha256": "d1392caee45aacd521524929c87cdb471ad7c22602b65b69bd00b191b2467313",
+      "originalBytes": 1840902,
+      "convertedName": "0011-personas.mp4",
+      "convertedSha256": "5a8c1be30c74c3c5fa36771df7673bdaae22edc5d1a8b167d9714e85cd0ab726",
+      "convertedBytes": 74159,
+      "durationMs": 2792,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0012",
+      "phrase": "Mujer",
+      "originalName": "VIDEOS/COLOR_BODY/0012_0000_0000.avi",
+      "originalSha256": "7fd317d0e459b36d361c1e77c206a642559f1984fd23a68866fc4ae22ebb8e5a",
+      "originalBytes": 1541374,
+      "convertedName": "0012-mujer.mp4",
+      "convertedSha256": "46c9abce83037c4deb42a54ffd0202f190d02acaa258adecf35d8d285957c100",
+      "convertedBytes": 67719,
+      "durationMs": 2333,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0013",
+      "phrase": "Hombre",
+      "originalName": "VIDEOS/COLOR_BODY/0013_0000_0000.avi",
+      "originalSha256": "51312e8ba764f52027c90240053578a029422f058959d20c4d64e4fed3746c85",
+      "originalBytes": 1921206,
+      "convertedName": "0013-hombre.mp4",
+      "convertedSha256": "eb9fe9fcb6c5195234a2846d828499213ccd4da975acd2f1f52a6472ba92ed65",
+      "convertedBytes": 75621,
+      "durationMs": 2958,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0014",
+      "phrase": "Niño",
+      "originalName": "VIDEOS/COLOR_BODY/0014_0000_0000.avi",
+      "originalSha256": "2c5769e83504eba2fef168fe63db1b1fb1abed631d69487d3d43d47ba90c31e8",
+      "originalBytes": 1999596,
+      "convertedName": "0014-nino.mp4",
+      "convertedSha256": "8a5e75e0a5064f956d809c35ab117202130fa6610713f10512d21769df16cad6",
+      "convertedBytes": 72986,
+      "durationMs": 3042,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0015",
+      "phrase": "Niña",
+      "originalName": "VIDEOS/COLOR_BODY/0015_0000_0000.avi",
+      "originalSha256": "a26fa67012de9f293b334fdea07a00c6c525b5b887e74db831e6f6c5f7aa01a7",
+      "originalBytes": 1892464,
+      "convertedName": "0015-nina.mp4",
+      "convertedSha256": "e897e04f628ee2ae409233aa1ba3d1931f1bebe66ea9cc7ade41a4466c3436de",
+      "convertedBytes": 72824,
+      "durationMs": 2958,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0016",
+      "phrase": "Abuelo",
+      "originalName": "VIDEOS/COLOR_BODY/0016_0000_0000.avi",
+      "originalSha256": "c6498a21dc0fd72bc792c8eb0bfa47e065514cb4727bfdd779a9fbbac5613255",
+      "originalBytes": 2753342,
+      "convertedName": "0016-abuelo.mp4",
+      "convertedSha256": "6cd74ac3f8bb6712513fea5098e16a8bad54af17aa743400c552af2a60d73427",
+      "convertedBytes": 84528,
+      "durationMs": 4333,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0017",
+      "phrase": "Tío",
+      "originalName": "VIDEOS/COLOR_BODY/0017_0000_0000.avi",
+      "originalSha256": "2e6f05ae3b1450e503ef3aac5f157637c641ec7373e623b0082122852b54dfb0",
+      "originalBytes": 2165930,
+      "convertedName": "0017-tio.mp4",
+      "convertedSha256": "145847902953ab875f266a5de72651cf40495e4442ddb91e0a9e665121bdd987",
+      "convertedBytes": 80813,
+      "durationMs": 3333,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0018",
+      "phrase": "Hermano",
+      "originalName": "VIDEOS/COLOR_BODY/0018_0000_0000.avi",
+      "originalSha256": "ace5f823486d21b117bd82746db77921e3da37dd0d7d0e115c3ebc3c5589237c",
+      "originalBytes": 2688594,
+      "convertedName": "0018-hermano.mp4",
+      "convertedSha256": "c1f5a02daf221fc0f97548ee2ba01b8b5c479a9f7a9d29846bf962a97b11926a",
+      "convertedBytes": 95021,
+      "durationMs": 4083,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0019",
+      "phrase": "Hambre",
+      "originalName": "VIDEOS/COLOR_BODY/0019_0000_0000.avi",
+      "originalSha256": "1d058ad5fb8d8ab848ebaeb4da44cee5546bdf576fe3a3b4e05da15a43051587",
+      "originalBytes": 2181828,
+      "convertedName": "0019-hambre.mp4",
+      "convertedSha256": "541735320749811b72e220ac8f40fd7640278014b234a5791dd942a2741e97d6",
+      "convertedBytes": 79602,
+      "durationMs": 3417,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0020",
+      "phrase": "Feliz",
+      "originalName": "VIDEOS/COLOR_BODY/0020_0000_0000.avi",
+      "originalSha256": "93de5056d8011795040f3ae131a8ba532b750654e939899d60becddf9e62fd8b",
+      "originalBytes": 1929186,
+      "convertedName": "0020-feliz.mp4",
+      "convertedSha256": "0c86a110c3a7fd2a35773edab627cadfd18814ba7699b4c0fb5d994e29a7676e",
+      "convertedBytes": 82378,
+      "durationMs": 2917,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0021",
+      "phrase": "Contento",
+      "originalName": "VIDEOS/COLOR_BODY/0021_0000_0000.avi",
+      "originalSha256": "a5c8f2a13300bb3d0e8ed406e0e9b8d0de8d0cd0b4f48205aedc4ba94a4f8e9c",
+      "originalBytes": 1972356,
+      "convertedName": "0021-contento.mp4",
+      "convertedSha256": "0086fe044aad79996df3cc76fdd74c3f55dcc1e7a9eeada3c8eadb0d8d1137fa",
+      "convertedBytes": 89934,
+      "durationMs": 2917,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0022",
+      "phrase": "Triste",
+      "originalName": "VIDEOS/COLOR_BODY/0022_0000_0000.avi",
+      "originalSha256": "6ed17e8c120132d35b7ea30deae950a18fc168ffc30ceeaf7453514709cd126d",
+      "originalBytes": 2114890,
+      "convertedName": "0022-triste.mp4",
+      "convertedSha256": "a50c7183d057bae8a6db62e63121283c5e013057e41f24083f9bfb96070236db",
+      "convertedBytes": 75271,
+      "durationMs": 3292,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0023",
+      "phrase": "Aburrido",
+      "originalName": "VIDEOS/COLOR_BODY/0023_0000_0000.avi",
+      "originalSha256": "29cd5b8231b38a68c28e6daaea53a7a92b2dc1bae98f593772e2cc340aaa047b",
+      "originalBytes": 2166624,
+      "convertedName": "0023-aburrido.mp4",
+      "convertedSha256": "dbd03edf667219465c047c29501f329e0b146db4cd2c2ae0c8aa41e9da1a5408",
+      "convertedBytes": 76386,
+      "durationMs": 3417,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0024",
+      "phrase": "Bien",
+      "originalName": "VIDEOS/COLOR_BODY/0024_0000_0000.avi",
+      "originalSha256": "d9a899e3842f0d1390a5f57e38bf1887f5405536528595516762376a6273d7a6",
+      "originalBytes": 2118638,
+      "convertedName": "0024-bien.mp4",
+      "convertedSha256": "6000532fc6274eaa949ce7766c402ab1bd44c6b516d356da500b235175d4f811",
+      "convertedBytes": 73366,
+      "durationMs": 3292,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0025",
+      "phrase": "Mal",
+      "originalName": "VIDEOS/COLOR_BODY/0025_0000_0000.avi",
+      "originalSha256": "36614287f69110a9dc1a2d02071b24b9beca7e0156d225df7d2ca08f7c6c804f",
+      "originalBytes": 2131080,
+      "convertedName": "0025-mal.mp4",
+      "convertedSha256": "f2bb46c85208a029ecdec8f1076c8e2a76804f85f8191107f14a3d6759b12844",
+      "convertedBytes": 74926,
+      "durationMs": 3333,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0026",
+      "phrase": "¿Cómo estás?",
+      "originalName": "VIDEOS/COLOR_BODY/0026_0000_0000.avi",
+      "originalSha256": "d4569b1c9418ba869aa22a0db6ff1957be7dd8c0d31fd2d4311461684b395977",
+      "originalBytes": 2081018,
+      "convertedName": "0026-como-estas.mp4",
+      "convertedSha256": "51fdfed015fe5c7a90c33169ec0b96178cd71c6ab5dc6bb82a1d0b1a97a7973c",
+      "convertedBytes": 81942,
+      "durationMs": 3083,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0027",
+      "phrase": "Más o menos",
+      "originalName": "VIDEOS/COLOR_BODY/0027_0000_0000.avi",
+      "originalSha256": "fee8f3a4b1ce0f5b1d680fb9a79e757ee7025e37a7983b0a198797e6c9968165",
+      "originalBytes": 1837868,
+      "convertedName": "0027-mas-o-menos.mp4",
+      "convertedSha256": "96a7a8b250536fc9bd90ddb8e51fb137e9c20ae7f8215fba956c9bd4c14bc114",
+      "convertedBytes": 68784,
+      "durationMs": 2833,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0028",
+      "phrase": "Sentir",
+      "originalName": "VIDEOS/COLOR_BODY/0028_0000_0000.avi",
+      "originalSha256": "7ff8fd7fc199c8b201faa715f9514e4eba719f8eb54938790f2b952edee503c2",
+      "originalBytes": 2127742,
+      "convertedName": "0028-sentir.mp4",
+      "convertedSha256": "fb4bc57950c43031609a338d02a49b1b759df3485c7ae41590f54c6f74035b48",
+      "convertedBytes": 68792,
+      "durationMs": 3292,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0029",
+      "phrase": "Juicioso",
+      "originalName": "VIDEOS/COLOR_BODY/0029_0000_0000.avi",
+      "originalSha256": "cd1b75f4c19e5641f1869428109d91e0037b7ed15392f001282c583e5a47de0a",
+      "originalBytes": 1954556,
+      "convertedName": "0029-juicioso.mp4",
+      "convertedSha256": "350cd506fcec24b8a727390c9476bae867efd05c35e992e1f8bd28d8e8dd7e60",
+      "convertedBytes": 80679,
+      "durationMs": 2958,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0030",
+      "phrase": "Hola",
+      "originalName": "VIDEOS/COLOR_BODY/0030_0000_0000.avi",
+      "originalSha256": "6e50a61749cf83b0d4c45fbc349e2c589dbb927694992011ba96107d8afa2883",
+      "originalBytes": 3558180,
+      "convertedName": "0030-hola.mp4",
+      "convertedSha256": "e085e4b70d052af6e225a9091544173e16ce851ad2127eb05ebd5c6d6cebc266",
+      "convertedBytes": 92127,
+      "durationMs": 5625,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0031",
+      "phrase": "Adiós",
+      "originalName": "VIDEOS/COLOR_BODY/0031_0000_0000.avi",
+      "originalSha256": "422154886c11b1c95e0491b1c9d16e0f9e3c08a6bd1bc71adda07fb4fe53b62e",
+      "originalBytes": 1905918,
+      "convertedName": "0031-adios.mp4",
+      "convertedSha256": "1d06ad4893c1498d756e37226dd29e1fc329dc747f4a27113f285f9d3b766b1b",
+      "convertedBytes": 74041,
+      "durationMs": 2917,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0032",
+      "phrase": "Por favor",
+      "originalName": "VIDEOS/COLOR_BODY/0032_0000_0000.avi",
+      "originalSha256": "0fceff16b513d98437f3456368cfee477039641eeae16f44817608b4c32e9937",
+      "originalBytes": 1865012,
+      "convertedName": "0032-por-favor.mp4",
+      "convertedSha256": "59a59e0be337d33491217dda97377a068883c0dcf57e859e6c67e807571e712f",
+      "convertedBytes": 72546,
+      "durationMs": 2917,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0033",
+      "phrase": "Con gusto",
+      "originalName": "VIDEOS/COLOR_BODY/0033_0000_0000.avi",
+      "originalSha256": "1680978f8cbb4e2d8587e64895bd635109798a549420083bbefead8e33a7e000",
+      "originalBytes": 1722282,
+      "convertedName": "0033-con-gusto.mp4",
+      "convertedSha256": "e6a87d5e31f4e88a1f95d4bee2c20b609ab563c4e27ff962c7c9c5bcf93d43e0",
+      "convertedBytes": 69434,
+      "durationMs": 2542,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0034",
+      "phrase": "Bienvenido",
+      "originalName": "VIDEOS/COLOR_BODY/0034_0000_0000.avi",
+      "originalSha256": "ea97474bde1ced6eddd3b2ebaec80b399bb6e612ee832a1ce9325d999d66a633",
+      "originalBytes": 1810726,
+      "convertedName": "0034-bienvenido.mp4",
+      "convertedSha256": "0faa87b27bf86d2c9a841fc58fd81ca2b9443f5726cf338dec44140579187535",
+      "convertedBytes": 75254,
+      "durationMs": 2708,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0035",
+      "phrase": "Perdón",
+      "originalName": "VIDEOS/COLOR_BODY/0035_0000_0000.avi",
+      "originalSha256": "8e4e5140c35cdca78c1563c5ac6600059a655d32bb2f778a5412b543d3cb6728",
+      "originalBytes": 2075694,
+      "convertedName": "0035-perdon.mp4",
+      "convertedSha256": "ab0663a9491efeb2f533de2ae25ec7abbd62c3b9dad2fc9f4e9c940d6fac57ad",
+      "convertedBytes": 78126,
+      "durationMs": 3167,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0036",
+      "phrase": "Permiso",
+      "originalName": "VIDEOS/COLOR_BODY/0036_0000_0000.avi",
+      "originalSha256": "98ead48a03e26a66863e94e65bd65aec313afe6d80d63dc31568f35e2a442dbb",
+      "originalBytes": 1856580,
+      "convertedName": "0036-permiso.mp4",
+      "convertedSha256": "eec4b26cd20730809d19292aa6250632f64e6d5fcf29ddbd6da99e8c5bb50b51",
+      "convertedBytes": 73953,
+      "durationMs": 2833,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0037",
+      "phrase": "Nunca",
+      "originalName": "VIDEOS/COLOR_BODY/0037_0000_0000.avi",
+      "originalSha256": "ba3fc1d2c77a2ab7beeeb4818347b3c18562fbe23b6db7e2b60ffde0772f2fd2",
+      "originalBytes": 1910260,
+      "convertedName": "0037-nunca.mp4",
+      "convertedSha256": "44a9eb52fec54b23dd56c786f80c882c20fca8cff87b2b6e385883c67354dabc",
+      "convertedBytes": 73628,
+      "durationMs": 2958,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0038",
+      "phrase": "Yo",
+      "originalName": "VIDEOS/COLOR_BODY/0038_0000_0000.avi",
+      "originalSha256": "3ac02c963779769491dce7cc6af5bcf1ecfea1ea8b42665f62952b5beb2978a2",
+      "originalBytes": 1671302,
+      "convertedName": "0038-yo.mp4",
+      "convertedSha256": "06bd88542b35972c72346b2f486cfcef4b13b4e927a840b4c318f6164f72dda2",
+      "convertedBytes": 62534,
+      "durationMs": 2542,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0039",
+      "phrase": "Tú",
+      "originalName": "VIDEOS/COLOR_BODY/0039_0000_0000.avi",
+      "originalSha256": "f2cea594c7d157c663a347a070d7ef92cb893074e2b659453ec6e1b6c1649a74",
+      "originalBytes": 2137926,
+      "convertedName": "0039-tu.mp4",
+      "convertedSha256": "4a425b04fa4781b0028965b106faf568b4b64b98dfa15b4201c80da1c8313b44",
+      "convertedBytes": 72556,
+      "durationMs": 3375,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0040",
+      "phrase": "Ustedes",
+      "originalName": "VIDEOS/COLOR_BODY/0040_0000_0000.avi",
+      "originalSha256": "cf5e2ebbaf6bec8efe264ac5dee85f315734bdaaa8cb71933040e2e283b22eb0",
+      "originalBytes": 1913150,
+      "convertedName": "0040-ustedes.mp4",
+      "convertedSha256": "feda8efe9460930bea4bf85bffbbc31efa3b8034c9d4d20c6a05dea981342d08",
+      "convertedBytes": 72864,
+      "durationMs": 3000,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0041",
+      "phrase": "¿Qué?",
+      "originalName": "VIDEOS/COLOR_BODY/0041_0000_0000.avi",
+      "originalSha256": "6a01fffc3ada8f336130ba710e5e294f99d4e947724f87e9d146fa603c46fc32",
+      "originalBytes": 2037584,
+      "convertedName": "0041-que.mp4",
+      "convertedSha256": "d85abb55fd08327eec4c8fa27f5d454c2f13f64b0ca9464518f4620a962c8d05",
+      "convertedBytes": 73624,
+      "durationMs": 3083,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0042",
+      "phrase": "¿Cuándo?",
+      "originalName": "VIDEOS/COLOR_BODY/0042_0000_0000.avi",
+      "originalSha256": "5b6b43c1551b57076a8cd8bbbe9517129cefe23ab4c7f70e2dd29def3e66274e",
+      "originalBytes": 1882918,
+      "convertedName": "0042-cuando.mp4",
+      "convertedSha256": "831a8380cf9194b6bbb4bb0887bffe1e3ff49671039c52e7065816b9a2de0c96",
+      "convertedBytes": 71189,
+      "durationMs": 2958,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0043",
+      "phrase": "¿Dónde?",
+      "originalName": "VIDEOS/COLOR_BODY/0043_0000_0000.avi",
+      "originalSha256": "606b73c3016329745caaee2953ffeefdf449dca6664e406f81065b62466baff5",
+      "originalBytes": 1813594,
+      "convertedName": "0043-donde.mp4",
+      "convertedSha256": "697c1c8b42c206d639d6cf28ec43a3c14ac9a0f0e00fdccc921c8afb43ce092a",
+      "convertedBytes": 74266,
+      "durationMs": 2708,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0044",
+      "phrase": "¿Cómo?",
+      "originalName": "VIDEOS/COLOR_BODY/0044_0000_0000.avi",
+      "originalSha256": "a70aaa52c0c5711d4a0259a2d5a21f1d5fa9117a89db44ef848acd2e16e38093",
+      "originalBytes": 1784644,
+      "convertedName": "0044-como.mp4",
+      "convertedSha256": "19daa7a18029ba8d57e57c7aabd8c62420baf484059b3bfb45e7368a88a4bcac",
+      "convertedBytes": 71701,
+      "durationMs": 2708,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0045",
+      "phrase": "¿Por qué?",
+      "originalName": "VIDEOS/COLOR_BODY/0045_0000_0000.avi",
+      "originalSha256": "83de6feee42f58289777e1160493800b4f04be2eede1abd9760132fc9cf16b08",
+      "originalBytes": 1937598,
+      "convertedName": "0045-por-que.mp4",
+      "convertedSha256": "c3385c7a90612716cf1c4dfe6996b9abb35f277955bcbda127377927fbc554a0",
+      "convertedBytes": 76932,
+      "durationMs": 3000,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0046",
+      "phrase": "¿Quién?",
+      "originalName": "VIDEOS/COLOR_BODY/0046_0000_0000.avi",
+      "originalSha256": "4a89a40d880d477bb33c0e1ca21de76505b5650e88d75fba97b1aef56f24142f",
+      "originalBytes": 1876768,
+      "convertedName": "0046-quien.mp4",
+      "convertedSha256": "552c5c5c63d04ff42edd2cb0e03b713442414234376262bb445076b2f4d8fb76",
+      "convertedBytes": 71589,
+      "durationMs": 2958,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0047",
+      "phrase": "Diferente",
+      "originalName": "VIDEOS/COLOR_BODY/0047_0000_0000.avi",
+      "originalSha256": "8b75e971047394728cd37b7fadab017991d1510cc765d13e2403095fa550b49f",
+      "originalBytes": 2071790,
+      "convertedName": "0047-diferente.mp4",
+      "convertedSha256": "0778b758e2788af5a4a168f60ecc19f590b3faab7e7a2ff8add92ce4ad3977f1",
+      "convertedBytes": 83173,
+      "durationMs": 3083,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0048",
+      "phrase": "Todos",
+      "originalName": "VIDEOS/COLOR_BODY/0048_0000_0000.avi",
+      "originalSha256": "031e621e90bb24d256d5f3e5537372e2ba0b112eae1217cdc76a7eef5e202565",
+      "originalBytes": 1911248,
+      "convertedName": "0048-todos.mp4",
+      "convertedSha256": "d7923ec6c21a9bbfeb07b945c6dfb1e0138d3d9715369e646a3c071d6fc4645b",
+      "convertedBytes": 74939,
+      "durationMs": 2958,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "classId": "0049",
+      "phrase": "Mucho",
+      "originalName": "VIDEOS/COLOR_BODY/0049_0000_0000.avi",
+      "originalSha256": "2985fbbaca078e10c628b026c5ce5f8d651d3a91f1a86e879b74432c3be759ff",
+      "originalBytes": 1790004,
+      "convertedName": "0049-mucho.mp4",
+      "convertedSha256": "360b54219eb5811a3d2fbd1b76b8a49a7e771283ce2188a2263769bee1856a50",
+      "convertedBytes": 71715,
+      "durationMs": 2708,
+      "source": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    }
+  ]
+}
