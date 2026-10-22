@@ -1,0 +1,3635 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-03T21:34:07.401Z",
+  "source": "Colección EXPRESA en Internet Archive",
+  "authorship": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+  "license": {
+    "name": "CC BY-NC-ND 3.0 Unported",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "restrictions": [
+      "non-commercial",
+      "no-derivatives"
+    ]
+  },
+  "selectionPolicy": "Una toma original por concepto; alfabeto y tecnología completos, colegio completo y vocabulario cotidiano priorizado. Sin cuentos ni archivos derivados de Internet Archive.",
+  "limits": {
+    "targetBytes": 250000000,
+    "hardMaximumBytes": 400000000,
+    "selectedBytes": 249196042
+  },
+  "clips": [
+    {
+      "id": "expresa-alfabeto-a",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/a.mp4",
+      "originalName": "a.mp4",
+      "storedPath": "alfabeto_expresa/a.mp4",
+      "bytes": 2145660,
+      "officialHash": {
+        "md5": "6445489da26354e2045b5a6321589efb",
+        "sha1": "436d8aff89071fe29702ba774abfff3e25cdf703"
+      },
+      "calculatedHash": {
+        "md5": "6445489da26354e2045b5a6321589efb",
+        "sha1": "436d8aff89071fe29702ba774abfff3e25cdf703",
+        "sha256": "3ca500eb1423d9eff4cb0244f4e87e6b52dfce18bf5c71a48e4d14c18943da5f"
+      },
+      "gloss": "A",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-b",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/b.mp4",
+      "originalName": "b.mp4",
+      "storedPath": "alfabeto_expresa/b.mp4",
+      "bytes": 2166221,
+      "officialHash": {
+        "md5": "9f5e5d92ebafb1948093690c4ce2fdc2",
+        "sha1": "1bda4769c3589a42b5a21b25250a0de7e6e4f218"
+      },
+      "calculatedHash": {
+        "md5": "9f5e5d92ebafb1948093690c4ce2fdc2",
+        "sha1": "1bda4769c3589a42b5a21b25250a0de7e6e4f218",
+        "sha256": "e96347c092e4573cce79db427d9165867d233cf1309f6daa56aeac8d14a608fc"
+      },
+      "gloss": "B",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-c",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/c.mp4",
+      "originalName": "c.mp4",
+      "storedPath": "alfabeto_expresa/c.mp4",
+      "bytes": 2126501,
+      "officialHash": {
+        "md5": "8cbc33ba2efe03bfb4444186cd3eacb8",
+        "sha1": "384d49bd8fd4e1416086e5b45a207bd3c0be0e0c"
+      },
+      "calculatedHash": {
+        "md5": "8cbc33ba2efe03bfb4444186cd3eacb8",
+        "sha1": "384d49bd8fd4e1416086e5b45a207bd3c0be0e0c",
+        "sha256": "03f1595d38103a53c8e7d98703f3d7e1263368b72e154925ace43f49c7ca7916"
+      },
+      "gloss": "C",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-d",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/d.mp4",
+      "originalName": "d.mp4",
+      "storedPath": "alfabeto_expresa/d.mp4",
+      "bytes": 2227048,
+      "officialHash": {
+        "md5": "01aa07d5095f5770d6303cf9fde63012",
+        "sha1": "6a86d165f7d998803c3cdfc2252945a83ced0d6e"
+      },
+      "calculatedHash": {
+        "md5": "01aa07d5095f5770d6303cf9fde63012",
+        "sha1": "6a86d165f7d998803c3cdfc2252945a83ced0d6e",
+        "sha256": "804b8be6baf3f7b44a36037b45f8b0e3bb1a7a34373c21a55e86c9c12e79514b"
+      },
+      "gloss": "D",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-e",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/e.mp4",
+      "originalName": "e.mp4",
+      "storedPath": "alfabeto_expresa/e.mp4",
+      "bytes": 2259342,
+      "officialHash": {
+        "md5": "7b882d9ca145354071b3836029aa500e",
+        "sha1": "da4b3d3ed5a6e307e8e185f335b45b9319e9e675"
+      },
+      "calculatedHash": {
+        "md5": "7b882d9ca145354071b3836029aa500e",
+        "sha1": "da4b3d3ed5a6e307e8e185f335b45b9319e9e675",
+        "sha256": "d332a0e37bb46f4140e949685f74576b429f592b5a7ddaa2921b48281b493b86"
+      },
+      "gloss": "E",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-enie",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/enie.mp4",
+      "originalName": "enie.mp4",
+      "storedPath": "alfabeto_expresa/enie.mp4",
+      "bytes": 1869959,
+      "officialHash": {
+        "md5": "9027b49d268c65b2eea0ba01a13b1159",
+        "sha1": "d03d6ccd3e8442023ef5bb777df8cd2146e69e3f"
+      },
+      "calculatedHash": {
+        "md5": "9027b49d268c65b2eea0ba01a13b1159",
+        "sha1": "d03d6ccd3e8442023ef5bb777df8cd2146e69e3f",
+        "sha256": "2811e2afaf86e824e872ed1a3fe47bf9868811d8054da402881a1497e4639ae1"
+      },
+      "gloss": "Ñ",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-f",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/f.mp4",
+      "originalName": "f.mp4",
+      "storedPath": "alfabeto_expresa/f.mp4",
+      "bytes": 2056534,
+      "officialHash": {
+        "md5": "99d37f9283ef07518f062a1381c919af",
+        "sha1": "bcf9b277bcb125102e4d90556e5a443a7cc78e03"
+      },
+      "calculatedHash": {
+        "md5": "99d37f9283ef07518f062a1381c919af",
+        "sha1": "bcf9b277bcb125102e4d90556e5a443a7cc78e03",
+        "sha256": "93deb93c40c34e2f01bc489087a0adc1f4f1a9b920fc436adf9f43fd37f033bf"
+      },
+      "gloss": "F",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-g",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/g.mp4",
+      "originalName": "g.mp4",
+      "storedPath": "alfabeto_expresa/g.mp4",
+      "bytes": 2066353,
+      "officialHash": {
+        "md5": "adbb58ebddfde11c800b4b740aa75a23",
+        "sha1": "e19005d2712b6375eeb3dc8c70c45085b8eac7f2"
+      },
+      "calculatedHash": {
+        "md5": "adbb58ebddfde11c800b4b740aa75a23",
+        "sha1": "e19005d2712b6375eeb3dc8c70c45085b8eac7f2",
+        "sha256": "c28c2b2d620ea62358fdadb3a8f5ab9d7bf82b6e94366bc316ec666ae6ad1070"
+      },
+      "gloss": "G",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-h",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/h.mp4",
+      "originalName": "h.mp4",
+      "storedPath": "alfabeto_expresa/h.mp4",
+      "bytes": 2103976,
+      "officialHash": {
+        "md5": "171659027e195f9d3bb941bd2ef07c77",
+        "sha1": "18cd9524e5f22c1c5d7f15cefb08d1d38835a49d"
+      },
+      "calculatedHash": {
+        "md5": "171659027e195f9d3bb941bd2ef07c77",
+        "sha1": "18cd9524e5f22c1c5d7f15cefb08d1d38835a49d",
+        "sha256": "503fc2ee1eaf3f687712ee2ca8454b9a0b57d02825fcf8525579ed456ec1f547"
+      },
+      "gloss": "H",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-i",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/i.mp4",
+      "originalName": "i.mp4",
+      "storedPath": "alfabeto_expresa/i.mp4",
+      "bytes": 2034617,
+      "officialHash": {
+        "md5": "1dfd23c58c94862f7e064adfe6e62e72",
+        "sha1": "09056b6a590a98e599c703ff190b1968fc3d53f4"
+      },
+      "calculatedHash": {
+        "md5": "1dfd23c58c94862f7e064adfe6e62e72",
+        "sha1": "09056b6a590a98e599c703ff190b1968fc3d53f4",
+        "sha256": "311a05ac7d4ac0cc913815d7ec40994a209330238fee9ea512ffc4b4e7b238af"
+      },
+      "gloss": "I",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-j",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/j.mp4",
+      "originalName": "j.mp4",
+      "storedPath": "alfabeto_expresa/j.mp4",
+      "bytes": 2039315,
+      "officialHash": {
+        "md5": "bdb98b4120aa268380a0ccf89ee3c8fa",
+        "sha1": "c43cfb47e3e709c293f1e7bc2450cc08fc3bd0ba"
+      },
+      "calculatedHash": {
+        "md5": "bdb98b4120aa268380a0ccf89ee3c8fa",
+        "sha1": "c43cfb47e3e709c293f1e7bc2450cc08fc3bd0ba",
+        "sha256": "4327552d1c25474ffabb6c43a2db5212e4aad1b5dad3c9d89fe9be7a0d153204"
+      },
+      "gloss": "J",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-k",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/k.mp4",
+      "originalName": "k.mp4",
+      "storedPath": "alfabeto_expresa/k.mp4",
+      "bytes": 1884948,
+      "officialHash": {
+        "md5": "131a0ccee1653a2b520001fc3b4eea27",
+        "sha1": "3c997e65ae295f2202685b90a4abf95a095b2987"
+      },
+      "calculatedHash": {
+        "md5": "131a0ccee1653a2b520001fc3b4eea27",
+        "sha1": "3c997e65ae295f2202685b90a4abf95a095b2987",
+        "sha256": "fc5bf8a978485f5d975492446812c235b962152dc0ca79f01a0627dd743b4fe5"
+      },
+      "gloss": "K",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-l",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/l.mp4",
+      "originalName": "l.mp4",
+      "storedPath": "alfabeto_expresa/l.mp4",
+      "bytes": 2022300,
+      "officialHash": {
+        "md5": "11de277c6303148b6079a69aaa19c77e",
+        "sha1": "13c333b705a99e3eb3c1f45505fb3c145333cfcb"
+      },
+      "calculatedHash": {
+        "md5": "11de277c6303148b6079a69aaa19c77e",
+        "sha1": "13c333b705a99e3eb3c1f45505fb3c145333cfcb",
+        "sha256": "baebc3107e88ee1448f2e4c9dc9632767eab3137242b0268fcca7bcaf0f8945c"
+      },
+      "gloss": "L",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-m",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/m.mp4",
+      "originalName": "m.mp4",
+      "storedPath": "alfabeto_expresa/m.mp4",
+      "bytes": 2215529,
+      "officialHash": {
+        "md5": "e730c44b56ee0ad6f9f16a55fef7504a",
+        "sha1": "0514c698eff078f873069cba237e6164333c61ed"
+      },
+      "calculatedHash": {
+        "md5": "e730c44b56ee0ad6f9f16a55fef7504a",
+        "sha1": "0514c698eff078f873069cba237e6164333c61ed",
+        "sha256": "391997efb4855f3dac26cdd5ec659a0ff8591a1ce812fe34a675c3d481b16847"
+      },
+      "gloss": "M",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-n",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/n.mp4",
+      "originalName": "n.mp4",
+      "storedPath": "alfabeto_expresa/n.mp4",
+      "bytes": 2015152,
+      "officialHash": {
+        "md5": "9a44934300269c3d05ab753328d82974",
+        "sha1": "3e28e91f52abef9d33157f63701d29c698fa27ac"
+      },
+      "calculatedHash": {
+        "md5": "9a44934300269c3d05ab753328d82974",
+        "sha1": "3e28e91f52abef9d33157f63701d29c698fa27ac",
+        "sha256": "5f1efdfa3734609959f26bef6ccb49074ea31b9d1b73babde5c19ad57356eb12"
+      },
+      "gloss": "N",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-o",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/o.mp4",
+      "originalName": "o.mp4",
+      "storedPath": "alfabeto_expresa/o.mp4",
+      "bytes": 2155492,
+      "officialHash": {
+        "md5": "983b1980da9b55d95521b3047a85847f",
+        "sha1": "710e98a989824cbd19dd7d94e2501f28208af120"
+      },
+      "calculatedHash": {
+        "md5": "983b1980da9b55d95521b3047a85847f",
+        "sha1": "710e98a989824cbd19dd7d94e2501f28208af120",
+        "sha256": "97e20305e232b00e051903b9e6ba3af2a4d545bb5a8f4d9500d3a5ad7dffdefb"
+      },
+      "gloss": "O",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-p",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/p.mp4",
+      "originalName": "p.mp4",
+      "storedPath": "alfabeto_expresa/p.mp4",
+      "bytes": 2055720,
+      "officialHash": {
+        "md5": "6109a999a8d02ed4c11cf938a463e8ca",
+        "sha1": "bdd49a1b161f9ee7bb45272ce32d68ba20ff63e8"
+      },
+      "calculatedHash": {
+        "md5": "6109a999a8d02ed4c11cf938a463e8ca",
+        "sha1": "bdd49a1b161f9ee7bb45272ce32d68ba20ff63e8",
+        "sha256": "44f56013e975db7a42d0973313a68a9f6dceeb5909b9b1159679f44f09b638c3"
+      },
+      "gloss": "P",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-q",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/q.mp4",
+      "originalName": "q.mp4",
+      "storedPath": "alfabeto_expresa/q.mp4",
+      "bytes": 1997930,
+      "officialHash": {
+        "md5": "f7d13600e7ec758ef76afefb3107864a",
+        "sha1": "f3e0bd0e63e5114e81b10225f56159584f396fce"
+      },
+      "calculatedHash": {
+        "md5": "f7d13600e7ec758ef76afefb3107864a",
+        "sha1": "f3e0bd0e63e5114e81b10225f56159584f396fce",
+        "sha256": "ca848f771d2483b7860bd834850fc163ebbc183b5be11ae8b3d29e9f53ed6d24"
+      },
+      "gloss": "Q",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-r",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/r.mp4",
+      "originalName": "r.mp4",
+      "storedPath": "alfabeto_expresa/r.mp4",
+      "bytes": 1971416,
+      "officialHash": {
+        "md5": "2b462adc88bd430c54204e19653eba6f",
+        "sha1": "075c981bfcb1738d902d9111353bdbf6f6b1f647"
+      },
+      "calculatedHash": {
+        "md5": "2b462adc88bd430c54204e19653eba6f",
+        "sha1": "075c981bfcb1738d902d9111353bdbf6f6b1f647",
+        "sha256": "e97432fa13b936b45c8fd84143317156342d1b5d713f78ee7bd0283babd7bec5"
+      },
+      "gloss": "R",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-s",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/s.mp4",
+      "originalName": "s.mp4",
+      "storedPath": "alfabeto_expresa/s.mp4",
+      "bytes": 2115856,
+      "officialHash": {
+        "md5": "cc7283bed46980310a178648f4dfc219",
+        "sha1": "cfdf634f0a9f01a9a79d205b6b3993dd0f8a002f"
+      },
+      "calculatedHash": {
+        "md5": "cc7283bed46980310a178648f4dfc219",
+        "sha1": "cfdf634f0a9f01a9a79d205b6b3993dd0f8a002f",
+        "sha256": "283d3ab3f2cb75c20292027b3ec0316c4a0dc73dfa25593ffd6a828ed504b9c4"
+      },
+      "gloss": "S",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-t",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/t.mp4",
+      "originalName": "t.mp4",
+      "storedPath": "alfabeto_expresa/t.mp4",
+      "bytes": 2071526,
+      "officialHash": {
+        "md5": "f390844aba1236ff4b141cd5dd277e80",
+        "sha1": "4aa5980f55d2ac6db7319cbe5e4640c1791b74f7"
+      },
+      "calculatedHash": {
+        "md5": "f390844aba1236ff4b141cd5dd277e80",
+        "sha1": "4aa5980f55d2ac6db7319cbe5e4640c1791b74f7",
+        "sha256": "c9f0ea1d52ca6bd274d9797f3da986ad51713bd1c90f26040e98ad186bd757cd"
+      },
+      "gloss": "T",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-u",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/u.mp4",
+      "originalName": "u.mp4",
+      "storedPath": "alfabeto_expresa/u.mp4",
+      "bytes": 2013818,
+      "officialHash": {
+        "md5": "903662a2bc09266c6570abb19dc85439",
+        "sha1": "32b8b0a92bf7384b3adee0a0fa5d70faf74851d6"
+      },
+      "calculatedHash": {
+        "md5": "903662a2bc09266c6570abb19dc85439",
+        "sha1": "32b8b0a92bf7384b3adee0a0fa5d70faf74851d6",
+        "sha256": "6aa705c3ba974aa2edebb878dc713f96f6a1570af27f68f7c15b15f2a4aba765"
+      },
+      "gloss": "U",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-v",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/v.mp4",
+      "originalName": "v.mp4",
+      "storedPath": "alfabeto_expresa/v.mp4",
+      "bytes": 1858610,
+      "officialHash": {
+        "md5": "a0a6fadd23c3685ea21f45072dad2533",
+        "sha1": "64d3519e876f7fff75b5397464c02f8e4ca28a01"
+      },
+      "calculatedHash": {
+        "md5": "a0a6fadd23c3685ea21f45072dad2533",
+        "sha1": "64d3519e876f7fff75b5397464c02f8e4ca28a01",
+        "sha256": "5bfc8d628449f99511e93759a5b9b5c88ffe5310eea2cd05c2e09613c1673bb3"
+      },
+      "gloss": "V",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-w",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/w.mp4",
+      "originalName": "w.mp4",
+      "storedPath": "alfabeto_expresa/w.mp4",
+      "bytes": 2061441,
+      "officialHash": {
+        "md5": "3d76a408a9896fc450d84323e50c39d8",
+        "sha1": "9b488edfc59a9f5bb909d6fccac4a21445a62e4d"
+      },
+      "calculatedHash": {
+        "md5": "3d76a408a9896fc450d84323e50c39d8",
+        "sha1": "9b488edfc59a9f5bb909d6fccac4a21445a62e4d",
+        "sha256": "5c43c76c33fff0ef7ca049ca37a0c8f8e4fd6f27b7c9674dfdaa8c40f7e41875"
+      },
+      "gloss": "W",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-x",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/x.mp4",
+      "originalName": "x.mp4",
+      "storedPath": "alfabeto_expresa/x.mp4",
+      "bytes": 2150686,
+      "officialHash": {
+        "md5": "e283435db1fa4f74874daff448cc3ffb",
+        "sha1": "a752bc4ea59d14ec2da4ff3b5035e7b507e0ea15"
+      },
+      "calculatedHash": {
+        "md5": "e283435db1fa4f74874daff448cc3ffb",
+        "sha1": "a752bc4ea59d14ec2da4ff3b5035e7b507e0ea15",
+        "sha256": "e3cc700a17730cea9e49783310ca91a867754be2b9da9679d1a633a5d61fbce8"
+      },
+      "gloss": "X",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-y",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/y.mp4",
+      "originalName": "y.mp4",
+      "storedPath": "alfabeto_expresa/y.mp4",
+      "bytes": 1970959,
+      "officialHash": {
+        "md5": "c3988b30cf11db71e6654be864c7f202",
+        "sha1": "c83d7e6f467666024eb1dee82e5923f6fc00cf41"
+      },
+      "calculatedHash": {
+        "md5": "c3988b30cf11db71e6654be864c7f202",
+        "sha1": "c83d7e6f467666024eb1dee82e5923f6fc00cf41",
+        "sha256": "bc9fb4d82793dfac62ddbe21617b5de4caa1f061c3609a8992de39031e7caca5"
+      },
+      "gloss": "Y",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-alfabeto-z",
+      "identifier": "alfabeto_expresa",
+      "itemUrl": "https://archive.org/details/alfabeto_expresa",
+      "fileUrl": "https://archive.org/download/alfabeto_expresa/z.mp4",
+      "originalName": "z.mp4",
+      "storedPath": "alfabeto_expresa/z.mp4",
+      "bytes": 2060600,
+      "officialHash": {
+        "md5": "5b69a7142ef56ee9feaafcb5fe285fef",
+        "sha1": "83ca0e3d1200ad8ccd0bf2cced4657590677e4db"
+      },
+      "calculatedHash": {
+        "md5": "5b69a7142ef56ee9feaafcb5fe285fef",
+        "sha1": "83ca0e3d1200ad8ccd0bf2cced4657590677e4db",
+        "sha256": "e824f1efa445c0a4896ebcffda69b3e97089273555b14368c3416fefe044c09d"
+      },
+      "gloss": "Z",
+      "category": "alfabeto",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-ambulancia",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/ambulancia.mp4",
+      "originalName": "ambulancia.mp4",
+      "storedPath": "tecnologia_expresa/ambulancia.mp4",
+      "bytes": 2014944,
+      "officialHash": {
+        "md5": "9ec862f6ee56e4560724a864685878ef",
+        "sha1": "97b0c1ab04fab35e1c4d8b1e77a894b07f2f393e"
+      },
+      "calculatedHash": {
+        "md5": "9ec862f6ee56e4560724a864685878ef",
+        "sha1": "97b0c1ab04fab35e1c4d8b1e77a894b07f2f393e",
+        "sha256": "b1bc2b0874f09045eedde58e23fb5c5cef7c7986321deff2c014f57125abc4aa"
+      },
+      "gloss": "Ambulancia",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-aspiradora",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/aspiradora.mp4",
+      "originalName": "aspiradora.mp4",
+      "storedPath": "tecnologia_expresa/aspiradora.mp4",
+      "bytes": 2198448,
+      "officialHash": {
+        "md5": "3821d276ed82e2e700000de50d27bfc9",
+        "sha1": "58cac2c5d62a87f72a0e1d92e9d64466b925f3a3"
+      },
+      "calculatedHash": {
+        "md5": "3821d276ed82e2e700000de50d27bfc9",
+        "sha1": "58cac2c5d62a87f72a0e1d92e9d64466b925f3a3",
+        "sha256": "032e978ec22aa98e895f7a7928277a5a7153f0c86e8da7bfe4d3840d865533a2"
+      },
+      "gloss": "Aspiradora",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-avion",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/avion.mp4",
+      "originalName": "avion.mp4",
+      "storedPath": "tecnologia_expresa/avion.mp4",
+      "bytes": 2035142,
+      "officialHash": {
+        "md5": "1597c8193ca9b282ef5984f5350838e2",
+        "sha1": "6f21ef795eb0c74e050cdaa8e52728d471bfb9bc"
+      },
+      "calculatedHash": {
+        "md5": "1597c8193ca9b282ef5984f5350838e2",
+        "sha1": "6f21ef795eb0c74e050cdaa8e52728d471bfb9bc",
+        "sha256": "5f4f3794c091474de44e9df03931a18d49c691861a5c11a5f07191e71cc3cd23"
+      },
+      "gloss": "Avion",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-barco",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/barco.mp4",
+      "originalName": "barco.mp4",
+      "storedPath": "tecnologia_expresa/barco.mp4",
+      "bytes": 2050857,
+      "officialHash": {
+        "md5": "1f1ba91be3c344640e5301c008f33c9c",
+        "sha1": "7bc9a0768041f9eb5c52da27c1af755375cefd86"
+      },
+      "calculatedHash": {
+        "md5": "1f1ba91be3c344640e5301c008f33c9c",
+        "sha1": "7bc9a0768041f9eb5c52da27c1af755375cefd86",
+        "sha256": "2e0b7853197ed15318d1742c2cb84e6e49b18ab58fe48187c40c48a91936548d"
+      },
+      "gloss": "Barco",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-bicicleta",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/bicicleta.mp4",
+      "originalName": "bicicleta.mp4",
+      "storedPath": "tecnologia_expresa/bicicleta.mp4",
+      "bytes": 2164420,
+      "officialHash": {
+        "md5": "53bd05ce2fe176baeeffe2f8b53777c2",
+        "sha1": "ff8bce0963534396246f6bf9eef048332de4c0fb"
+      },
+      "calculatedHash": {
+        "md5": "53bd05ce2fe176baeeffe2f8b53777c2",
+        "sha1": "ff8bce0963534396246f6bf9eef048332de4c0fb",
+        "sha256": "0add51a080a899362fadd15df039eff63575735ea34cd52caa94044b0d6c37b4"
+      },
+      "gloss": "Bicicleta",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-bus",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/bus.mp4",
+      "originalName": "bus.mp4",
+      "storedPath": "tecnologia_expresa/bus.mp4",
+      "bytes": 2012434,
+      "officialHash": {
+        "md5": "21cc6cfbdced8a3fa1b556d72dbc2421",
+        "sha1": "645771b96995c751fa2d2f65b044a0645dafb0de"
+      },
+      "calculatedHash": {
+        "md5": "21cc6cfbdced8a3fa1b556d72dbc2421",
+        "sha1": "645771b96995c751fa2d2f65b044a0645dafb0de",
+        "sha256": "cb6ebfc7fb74c52a7b288557997e54a56d9b4b2cece6ca117270c9b2b75ccee4"
+      },
+      "gloss": "Bus",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-calculadora",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/calculadora.mp4",
+      "originalName": "calculadora.mp4",
+      "storedPath": "tecnologia_expresa/calculadora.mp4",
+      "bytes": 2040306,
+      "officialHash": {
+        "md5": "628f4b525678f9768c1764ecedee2799",
+        "sha1": "bccafc5e1cce037c6cc91fe39eb14af87610c4c4"
+      },
+      "calculatedHash": {
+        "md5": "628f4b525678f9768c1764ecedee2799",
+        "sha1": "bccafc5e1cce037c6cc91fe39eb14af87610c4c4",
+        "sha256": "3b227b6cc6d76c4c8769cc720fecc5ef142bc8514ab711988ed2a295abaac34f"
+      },
+      "gloss": "Calculadora",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-camara",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/camara.mp4",
+      "originalName": "camara.mp4",
+      "storedPath": "tecnologia_expresa/camara.mp4",
+      "bytes": 2066740,
+      "officialHash": {
+        "md5": "3cc05613e23daffb8406c92501dbeb05",
+        "sha1": "5dfb62cdc3f09003d784313c9b3f08e56733ad98"
+      },
+      "calculatedHash": {
+        "md5": "3cc05613e23daffb8406c92501dbeb05",
+        "sha1": "5dfb62cdc3f09003d784313c9b3f08e56733ad98",
+        "sha256": "7cb8fa9c581887b25d30750c1abc0159526953f1d85aef1a4e790c8063a16eaa"
+      },
+      "gloss": "Cámara",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-camion",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/camion.mp4",
+      "originalName": "camion.mp4",
+      "storedPath": "tecnologia_expresa/camion.mp4",
+      "bytes": 1999252,
+      "officialHash": {
+        "md5": "543200b01dcbeb6749855a5a1875eff9",
+        "sha1": "cf2370c4b6280e21073d33d9b213ba5c7e468d3d"
+      },
+      "calculatedHash": {
+        "md5": "543200b01dcbeb6749855a5a1875eff9",
+        "sha1": "cf2370c4b6280e21073d33d9b213ba5c7e468d3d",
+        "sha256": "b9a1c1b5e6f7eae57ff75423a04503e1d10e289664f08d7040313b158bd29829"
+      },
+      "gloss": "Camión",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-carro",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/carro.mp4",
+      "originalName": "carro.mp4",
+      "storedPath": "tecnologia_expresa/carro.mp4",
+      "bytes": 1761803,
+      "officialHash": {
+        "md5": "bec57c693172e051da70bc3235fd88dd",
+        "sha1": "3d04cc899ee78224c9d2d2b6437c11a45813400a"
+      },
+      "calculatedHash": {
+        "md5": "bec57c693172e051da70bc3235fd88dd",
+        "sha1": "3d04cc899ee78224c9d2d2b6437c11a45813400a",
+        "sha256": "52e038bd243a8c52a2138948ddbd4ebe37ef10a96f364ce8806ff8f0045ab2a5"
+      },
+      "gloss": "Carro",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-cd",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/cd.mp4",
+      "originalName": "cd.mp4",
+      "storedPath": "tecnologia_expresa/cd.mp4",
+      "bytes": 2198455,
+      "officialHash": {
+        "md5": "68b62b7be01980f27fb827025dd59831",
+        "sha1": "cf4f3296f2d08c419031c948f9b9eeee3605d7b9"
+      },
+      "calculatedHash": {
+        "md5": "68b62b7be01980f27fb827025dd59831",
+        "sha1": "cf4f3296f2d08c419031c948f9b9eeee3605d7b9",
+        "sha256": "2470fd96dba4bc88a54b303fc655a558fc837e13559bd2aba2aed2f956b20ea0"
+      },
+      "gloss": "Cd",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-celular",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/celular.mp4",
+      "originalName": "celular.mp4",
+      "storedPath": "tecnologia_expresa/celular.mp4",
+      "bytes": 1795575,
+      "officialHash": {
+        "md5": "6e195c730963cac55ec86967b42849aa",
+        "sha1": "064556a09a41bc112bdcaa406e227fac934240a1"
+      },
+      "calculatedHash": {
+        "md5": "6e195c730963cac55ec86967b42849aa",
+        "sha1": "064556a09a41bc112bdcaa406e227fac934240a1",
+        "sha256": "de506daf3e4921ddb759367a7bce722a5ca67584a2cdf7a0fa184c27bbd7791d"
+      },
+      "gloss": "Celular",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-computador",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/computador.mp4",
+      "originalName": "computador.mp4",
+      "storedPath": "tecnologia_expresa/computador.mp4",
+      "bytes": 2110701,
+      "officialHash": {
+        "md5": "11c696bae7238ba0b403b6c8264f2d34",
+        "sha1": "c57fd7d85e7811fb455751bb1c91c23e985f87ca"
+      },
+      "calculatedHash": {
+        "md5": "11c696bae7238ba0b403b6c8264f2d34",
+        "sha1": "c57fd7d85e7811fb455751bb1c91c23e985f87ca",
+        "sha256": "a2cbbeaf242bbc3be4203a1c686d583ec5e6ef6717805c983f1d567fa929e43a"
+      },
+      "gloss": "Computador",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-equipo-de-sonido",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/equipo_de_sonido.mp4",
+      "originalName": "equipo_de_sonido.mp4",
+      "storedPath": "tecnologia_expresa/equipo_de_sonido.mp4",
+      "bytes": 2067020,
+      "officialHash": {
+        "md5": "4e6d521a627c26eaeb30cf6e0c8493c4",
+        "sha1": "5167845e7d1d8b69b64b7870c4032bf30505b728"
+      },
+      "calculatedHash": {
+        "md5": "4e6d521a627c26eaeb30cf6e0c8493c4",
+        "sha1": "5167845e7d1d8b69b64b7870c4032bf30505b728",
+        "sha256": "b38cdf35369e45a7e6d421bf0a8e7fb49217dc4673967a1e9d082777b6b3363c"
+      },
+      "gloss": "Equipo de sonido",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-estufa",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/estufa.mp4",
+      "originalName": "estufa.mp4",
+      "storedPath": "tecnologia_expresa/estufa.mp4",
+      "bytes": 1776931,
+      "officialHash": {
+        "md5": "49e849a5a7b9a2dacc694c58a693333e",
+        "sha1": "b583c36e0064b2795a2075bfce90e0486887aa5d"
+      },
+      "calculatedHash": {
+        "md5": "49e849a5a7b9a2dacc694c58a693333e",
+        "sha1": "b583c36e0064b2795a2075bfce90e0486887aa5d",
+        "sha256": "8cce88156e5b10285986128f790b4bdc38c34f05fe33f901d0a5ecfad3b79197"
+      },
+      "gloss": "Estufa",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-filmadora",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/filmadora.mp4",
+      "originalName": "filmadora.mp4",
+      "storedPath": "tecnologia_expresa/filmadora.mp4",
+      "bytes": 2056795,
+      "officialHash": {
+        "md5": "4acaf29a2693cfa2346e5cfc15064194",
+        "sha1": "5f263449b27eaae5fb7a80d3eee963f71ae753b5"
+      },
+      "calculatedHash": {
+        "md5": "4acaf29a2693cfa2346e5cfc15064194",
+        "sha1": "5f263449b27eaae5fb7a80d3eee963f71ae753b5",
+        "sha256": "938714568a0d24635f28ed477baec3c6b4c04ebe9d29c4079c404fb96c7fb885"
+      },
+      "gloss": "Filmadora",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-helicoptero",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/helicoptero.mp4",
+      "originalName": "helicoptero.mp4",
+      "storedPath": "tecnologia_expresa/helicoptero.mp4",
+      "bytes": 1977355,
+      "officialHash": {
+        "md5": "b85d84c828207826db5a062465293343",
+        "sha1": "4d7f396d881b3e40897d7524030a09c143f633e8"
+      },
+      "calculatedHash": {
+        "md5": "b85d84c828207826db5a062465293343",
+        "sha1": "4d7f396d881b3e40897d7524030a09c143f633e8",
+        "sha256": "0f055f6842670de4aac968de51e9a7418e7f10e6417022f3cb65658490dd7904"
+      },
+      "gloss": "Helicóptero",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-impresora",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/impresora.mp4",
+      "originalName": "impresora.mp4",
+      "storedPath": "tecnologia_expresa/impresora.mp4",
+      "bytes": 2154784,
+      "officialHash": {
+        "md5": "59cb9b73ab4a00e72f2469c174e6f0a3",
+        "sha1": "92fa7f01ffdb7c42b887ba061011869acc39526c"
+      },
+      "calculatedHash": {
+        "md5": "59cb9b73ab4a00e72f2469c174e6f0a3",
+        "sha1": "92fa7f01ffdb7c42b887ba061011869acc39526c",
+        "sha256": "e2c8b3c03ffef65accaf18efbb9282c172780252ad9ad35ba5cd7ee1783debd3"
+      },
+      "gloss": "Impresora",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-internet",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/internet.mp4",
+      "originalName": "internet.mp4",
+      "storedPath": "tecnologia_expresa/internet.mp4",
+      "bytes": 2088016,
+      "officialHash": {
+        "md5": "d2eb4cfc4f585ac551b7d4581bb91017",
+        "sha1": "ad27fbf3680721bb14f40817a9d2a061706d0691"
+      },
+      "calculatedHash": {
+        "md5": "d2eb4cfc4f585ac551b7d4581bb91017",
+        "sha1": "ad27fbf3680721bb14f40817a9d2a061706d0691",
+        "sha256": "d7e01392f56c292b3a60316b9afe22692f4465cc214f75c7a79575d395459bbc"
+      },
+      "gloss": "Internet",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-lavadora",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/lavadora.mp4",
+      "originalName": "lavadora.mp4",
+      "storedPath": "tecnologia_expresa/lavadora.mp4",
+      "bytes": 1926949,
+      "officialHash": {
+        "md5": "583dcdaa99fdc7cf523f112aea99e856",
+        "sha1": "e50fde9393df0adc16473153742e78b79dd8ca92"
+      },
+      "calculatedHash": {
+        "md5": "583dcdaa99fdc7cf523f112aea99e856",
+        "sha1": "e50fde9393df0adc16473153742e78b79dd8ca92",
+        "sha256": "e81e88441fbcc6c4c6738dc4425ede6a3e3f73866b1e70b14f44ad0bbdc49b18"
+      },
+      "gloss": "Lavadora",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-licuadora",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/licuadora.mp4",
+      "originalName": "licuadora.mp4",
+      "storedPath": "tecnologia_expresa/licuadora.mp4",
+      "bytes": 1882235,
+      "officialHash": {
+        "md5": "65be1a1d93f1922e0528363c19fb3a23",
+        "sha1": "f5f4b08cd9461f330b9ef9415c6d9187c73af8d1"
+      },
+      "calculatedHash": {
+        "md5": "65be1a1d93f1922e0528363c19fb3a23",
+        "sha1": "f5f4b08cd9461f330b9ef9415c6d9187c73af8d1",
+        "sha256": "bd39f32ecf9511e642b2b7d9b118ee467d587f35a2c4458f24432cf0255e80be"
+      },
+      "gloss": "Licuadora",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-microondas",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/microondas.mp4",
+      "originalName": "microondas.mp4",
+      "storedPath": "tecnologia_expresa/microondas.mp4",
+      "bytes": 1953993,
+      "officialHash": {
+        "md5": "d0f51de50c9076675f81c256f1d3d36f",
+        "sha1": "b670940ddb489d98220f0649ab9e9c0d9cdbcaae"
+      },
+      "calculatedHash": {
+        "md5": "d0f51de50c9076675f81c256f1d3d36f",
+        "sha1": "b670940ddb489d98220f0649ab9e9c0d9cdbcaae",
+        "sha256": "9c2e1e07c7811dd28942d2c9b1769bd7f3902a0738ab9f6cfb118f680664b122"
+      },
+      "gloss": "Microondas",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-moto",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/moto.mp4",
+      "originalName": "moto.mp4",
+      "storedPath": "tecnologia_expresa/moto.mp4",
+      "bytes": 1832988,
+      "officialHash": {
+        "md5": "bf39d33cc8954fb855ac29278143471b",
+        "sha1": "37ba54e2a43221f91e2085274b22c83b09c1c23f"
+      },
+      "calculatedHash": {
+        "md5": "bf39d33cc8954fb855ac29278143471b",
+        "sha1": "37ba54e2a43221f91e2085274b22c83b09c1c23f",
+        "sha256": "5a0295c2af4af97467df1d2050113f038e41f1f29d3a78f1c7b4ea5d4077c2d3"
+      },
+      "gloss": "Moto",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-nevera",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/nevera.mp4",
+      "originalName": "nevera.mp4",
+      "storedPath": "tecnologia_expresa/nevera.mp4",
+      "bytes": 1809852,
+      "officialHash": {
+        "md5": "af109173e73d5fd9bebc2736b0418909",
+        "sha1": "5bb4e9a1d6511a4a8f01adc7bac05d6e97d51f36"
+      },
+      "calculatedHash": {
+        "md5": "af109173e73d5fd9bebc2736b0418909",
+        "sha1": "5bb4e9a1d6511a4a8f01adc7bac05d6e97d51f36",
+        "sha256": "7f0b49b06b74f64dade28f6602584cf083022b9f7e2ca4bfc9365b4b6b45aa01"
+      },
+      "gloss": "Nevera",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-plancha",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/plancha.mp4",
+      "originalName": "plancha.mp4",
+      "storedPath": "tecnologia_expresa/plancha.mp4",
+      "bytes": 1949620,
+      "officialHash": {
+        "md5": "ace31997905a6aba9ea2a983a0543f3f",
+        "sha1": "a3c52f978856606ccbc6fc9cddd8c00f71b05944"
+      },
+      "calculatedHash": {
+        "md5": "ace31997905a6aba9ea2a983a0543f3f",
+        "sha1": "a3c52f978856606ccbc6fc9cddd8c00f71b05944",
+        "sha256": "b450feaeafa51b9564e54219812fcc1201a151f044e51bbedeae24e1b39b653d"
+      },
+      "gloss": "Plancha",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-tecnologia",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/tecnologia.mp4",
+      "originalName": "tecnologia.mp4",
+      "storedPath": "tecnologia_expresa/tecnologia.mp4",
+      "bytes": 1799697,
+      "officialHash": {
+        "md5": "009e5b2b70a2596893c048615c0c913b",
+        "sha1": "d4744c344ae0b944af91105fe011c8045fd19946"
+      },
+      "calculatedHash": {
+        "md5": "009e5b2b70a2596893c048615c0c913b",
+        "sha1": "d4744c344ae0b944af91105fe011c8045fd19946",
+        "sha256": "f14a25203dd7fc149b2a8e467535d8b14b5afeaa4cfaa3c072c618cf5c500e56"
+      },
+      "gloss": "Tecnología",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-telefono",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/telefono.mp4",
+      "originalName": "telefono.mp4",
+      "storedPath": "tecnologia_expresa/telefono.mp4",
+      "bytes": 1905607,
+      "officialHash": {
+        "md5": "0d7e590da59c4908a5fcba5c0a03e3bb",
+        "sha1": "938d18ee8d23cd85e1fc4e58d2136168aec8645b"
+      },
+      "calculatedHash": {
+        "md5": "0d7e590da59c4908a5fcba5c0a03e3bb",
+        "sha1": "938d18ee8d23cd85e1fc4e58d2136168aec8645b",
+        "sha256": "5229f1ac2f414cdd21d3942e140842bfefebd38c377e7f9f2200277695cf0978"
+      },
+      "gloss": "Teléfono",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-television",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/television.mp4",
+      "originalName": "television.mp4",
+      "storedPath": "tecnologia_expresa/television.mp4",
+      "bytes": 1842747,
+      "officialHash": {
+        "md5": "44885a02863c0269aea707e94ff3e36e",
+        "sha1": "b1bc6509eaff27d17a13661bcf58c1f0743afda4"
+      },
+      "calculatedHash": {
+        "md5": "44885a02863c0269aea707e94ff3e36e",
+        "sha1": "b1bc6509eaff27d17a13661bcf58c1f0743afda4",
+        "sha256": "84dd34bcd2a012eb89b28876bc8e449638120d3a2ae84cab449623aee354359c"
+      },
+      "gloss": "Televisión",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-tecnologia-tren",
+      "identifier": "tecnologia_expresa",
+      "itemUrl": "https://archive.org/details/tecnologia_expresa",
+      "fileUrl": "https://archive.org/download/tecnologia_expresa/tren.mp4",
+      "originalName": "tren.mp4",
+      "storedPath": "tecnologia_expresa/tren.mp4",
+      "bytes": 2039031,
+      "officialHash": {
+        "md5": "a5490b50822f5c12387e1edbf97dfe78",
+        "sha1": "412db736c8f5310e3b80d8cb7be9fdc6c9025f91"
+      },
+      "calculatedHash": {
+        "md5": "a5490b50822f5c12387e1edbf97dfe78",
+        "sha1": "412db736c8f5310e3b80d8cb7be9fdc6c9025f91",
+        "sha256": "2f2ba1a9f50c5871d9049f39298845b339033333c1d8bbe4105ed3b60e031f8f"
+      },
+      "gloss": "Tren",
+      "category": "tecnologia",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-amarillo",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/amarillo.mp4",
+      "originalName": "amarillo.mp4",
+      "storedPath": "colegio_expresa/amarillo.mp4",
+      "bytes": 1879594,
+      "officialHash": {
+        "md5": "b513eba548dd4df90909a22e2e80d13d",
+        "sha1": "b545e57004dff3c9a7b2b9734e29f2d55e479ada"
+      },
+      "calculatedHash": {
+        "md5": "b513eba548dd4df90909a22e2e80d13d",
+        "sha1": "b545e57004dff3c9a7b2b9734e29f2d55e479ada",
+        "sha256": "41a559331e566e5a11788ac2807ab73a9d3a964407fd4f95bed062696bae3935"
+      },
+      "gloss": "Amarillo",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-arcoiris",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/arcoiris.mp4",
+      "originalName": "arcoiris.mp4",
+      "storedPath": "colegio_expresa/arcoiris.mp4",
+      "bytes": 1829254,
+      "officialHash": {
+        "md5": "37ba589917d522b6c6e01f78a4b049fe",
+        "sha1": "b83c681461ede9cb338b4020fae6338a1d85a91c"
+      },
+      "calculatedHash": {
+        "md5": "37ba589917d522b6c6e01f78a4b049fe",
+        "sha1": "b83c681461ede9cb338b4020fae6338a1d85a91c",
+        "sha256": "5ca8083260b1c37c5b732a588f989b6026a756334dc8d4556cf356c242deb5c2"
+      },
+      "gloss": "Arcoiris",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-azul",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/azul.mp4",
+      "originalName": "azul.mp4",
+      "storedPath": "colegio_expresa/azul.mp4",
+      "bytes": 1716229,
+      "officialHash": {
+        "md5": "d2aff8cac4cd36757a0169ced115beb5",
+        "sha1": "568ce46ea2ae001bdd0f8fb5b39798059fdef5a0"
+      },
+      "calculatedHash": {
+        "md5": "d2aff8cac4cd36757a0169ced115beb5",
+        "sha1": "568ce46ea2ae001bdd0f8fb5b39798059fdef5a0",
+        "sha256": "045afa276d3c3f1cba6305e7cf0653d1dbdeeae066efd5b16df5a412150bcd54"
+      },
+      "gloss": "Azul",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-blanco",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/blanco.mp4",
+      "originalName": "blanco.mp4",
+      "storedPath": "colegio_expresa/blanco.mp4",
+      "bytes": 1801636,
+      "officialHash": {
+        "md5": "9b8f4c22bc82f7a3f1485f1e890ba9ce",
+        "sha1": "1cb0937881cdc09adc48f23346eddd7646e46c41"
+      },
+      "calculatedHash": {
+        "md5": "9b8f4c22bc82f7a3f1485f1e890ba9ce",
+        "sha1": "1cb0937881cdc09adc48f23346eddd7646e46c41",
+        "sha256": "7efb366a55d72cecacb556f5e2a528d2b47a69a226f4bb73b7db0e46ef426deb"
+      },
+      "gloss": "Blanco",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-cero",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/cero.mp4",
+      "originalName": "cero.mp4",
+      "storedPath": "colegio_expresa/cero.mp4",
+      "bytes": 1903439,
+      "officialHash": {
+        "md5": "a18e82e70e84499b43aaef5e0cffd453",
+        "sha1": "3058b87cc598e907d78025940f0bc7093724370e"
+      },
+      "calculatedHash": {
+        "md5": "a18e82e70e84499b43aaef5e0cffd453",
+        "sha1": "3058b87cc598e907d78025940f0bc7093724370e",
+        "sha256": "3ff024752dafaaa88ffe6634b1f567bf4c83d576c4495e7557e66c11062b0a75"
+      },
+      "gloss": "Cero",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-cinco",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/cinco.mp4",
+      "originalName": "cinco.mp4",
+      "storedPath": "colegio_expresa/cinco.mp4",
+      "bytes": 1834303,
+      "officialHash": {
+        "md5": "cc489a00a10e8d4d85b25246326ce864",
+        "sha1": "67bc85518a5e8cbd82855b655baf10ffb66d2601"
+      },
+      "calculatedHash": {
+        "md5": "cc489a00a10e8d4d85b25246326ce864",
+        "sha1": "67bc85518a5e8cbd82855b655baf10ffb66d2601",
+        "sha256": "efd4584f7394562590a3bb1c12686d6734718a1ea44543a78cca6d7d6412a007"
+      },
+      "gloss": "Cinco",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-colegio",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/colegio.mp4",
+      "originalName": "colegio.mp4",
+      "storedPath": "colegio_expresa/colegio.mp4",
+      "bytes": 1918434,
+      "officialHash": {
+        "md5": "d1bde2af4c12737c8b76c34e4f5162f8",
+        "sha1": "b9542739bb5d993a0039134c6568680030db3e04"
+      },
+      "calculatedHash": {
+        "md5": "d1bde2af4c12737c8b76c34e4f5162f8",
+        "sha1": "b9542739bb5d993a0039134c6568680030db3e04",
+        "sha256": "2fa7a0b9fd3229f288db6b792d1dcb0dfca1e6e2207f71fdc84fc339c24c956d"
+      },
+      "gloss": "Colegio",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-cuatro",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/cuatro.mp4",
+      "originalName": "cuatro.mp4",
+      "storedPath": "colegio_expresa/cuatro.mp4",
+      "bytes": 1830972,
+      "officialHash": {
+        "md5": "5fb92c66ae6eebd757f71bafbd5d3898",
+        "sha1": "1e235e0612a9f69e12f66c3bfec218c1a79c5a7b"
+      },
+      "calculatedHash": {
+        "md5": "5fb92c66ae6eebd757f71bafbd5d3898",
+        "sha1": "1e235e0612a9f69e12f66c3bfec218c1a79c5a7b",
+        "sha256": "4f16ec2df600ed15c76cdc3082c971b12ab9564496ec4a9adcae0e24f08bcb72"
+      },
+      "gloss": "Cuatro",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-dos",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/dos.mp4",
+      "originalName": "dos.mp4",
+      "storedPath": "colegio_expresa/dos.mp4",
+      "bytes": 1949095,
+      "officialHash": {
+        "md5": "28d6bc6e69da0b7225dcf5703ec6da1a",
+        "sha1": "63e0fd09eada328b27191d9b0e308147c2c97f99"
+      },
+      "calculatedHash": {
+        "md5": "28d6bc6e69da0b7225dcf5703ec6da1a",
+        "sha1": "63e0fd09eada328b27191d9b0e308147c2c97f99",
+        "sha256": "2e77fc378f4a91b9d64d8f4a01968275b8e8827119a7614ef7650b57792a92e0"
+      },
+      "gloss": "Dos",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-libro",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/libro.mp4",
+      "originalName": "libro.mp4",
+      "storedPath": "colegio_expresa/libro.mp4",
+      "bytes": 1979869,
+      "officialHash": {
+        "md5": "0a869dd3a1e9117fa2318ba37b309b9b",
+        "sha1": "a63f04026d18176eaaacb1294948e57bc8e2d872"
+      },
+      "calculatedHash": {
+        "md5": "0a869dd3a1e9117fa2318ba37b309b9b",
+        "sha1": "a63f04026d18176eaaacb1294948e57bc8e2d872",
+        "sha256": "17fe1fb485941d386f832307689a76ca185d47a55b348cc68d2430b2d4526c0f"
+      },
+      "gloss": "Libro",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-marron",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/marron.mp4",
+      "originalName": "marron.mp4",
+      "storedPath": "colegio_expresa/marron.mp4",
+      "bytes": 1853230,
+      "officialHash": {
+        "md5": "4071a9cbae1d7a7a53c30beaf7b28818",
+        "sha1": "f6fdc4655f54a2dea94665e3f4c15a57eea5c7f7"
+      },
+      "calculatedHash": {
+        "md5": "4071a9cbae1d7a7a53c30beaf7b28818",
+        "sha1": "f6fdc4655f54a2dea94665e3f4c15a57eea5c7f7",
+        "sha256": "2781d888e312588125fcfd5cba51aa1615989cebe35241fac2b3b658bc6740bc"
+      },
+      "gloss": "Marron",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-morado",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/morado.mp4",
+      "originalName": "morado.mp4",
+      "storedPath": "colegio_expresa/morado.mp4",
+      "bytes": 1929757,
+      "officialHash": {
+        "md5": "8f9b65d7913fb7e3500351b854d5ecd0",
+        "sha1": "a4577bd1f94e46b51dfd9235677314882dd86a1e"
+      },
+      "calculatedHash": {
+        "md5": "8f9b65d7913fb7e3500351b854d5ecd0",
+        "sha1": "a4577bd1f94e46b51dfd9235677314882dd86a1e",
+        "sha256": "b9801ca3997f6cd954e4719393c4e98a7a2344ba767411dbe99a58e86bca64ff"
+      },
+      "gloss": "Morado",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-multiplicar",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/multiplicar.mp4",
+      "originalName": "multiplicar.mp4",
+      "storedPath": "colegio_expresa/multiplicar.mp4",
+      "bytes": 1933965,
+      "officialHash": {
+        "md5": "0e489b843208009dd0bc661d5f22ba2f",
+        "sha1": "89611f2355e132ae6366e3ac255018ba25c07e64"
+      },
+      "calculatedHash": {
+        "md5": "0e489b843208009dd0bc661d5f22ba2f",
+        "sha1": "89611f2355e132ae6366e3ac255018ba25c07e64",
+        "sha256": "a2c2dda2f999ae0f4bba20ac5be2c62457aabc271bf5a31b67efc41d5c474b32"
+      },
+      "gloss": "Multiplicar",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-naranja",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/naranja.mp4",
+      "originalName": "naranja.mp4",
+      "storedPath": "colegio_expresa/naranja.mp4",
+      "bytes": 1834529,
+      "officialHash": {
+        "md5": "02faa5cb3d4b39f61fbb6c09d41bf04e",
+        "sha1": "b0c6f3f3a0480950e52de35f521b2f748ffa4fd3"
+      },
+      "calculatedHash": {
+        "md5": "02faa5cb3d4b39f61fbb6c09d41bf04e",
+        "sha1": "b0c6f3f3a0480950e52de35f521b2f748ffa4fd3",
+        "sha256": "5f5698d97cc09aa35aae64e8bb1bd74b681f973aec044a13b4ddb321f45754fa"
+      },
+      "gloss": "Naranja",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-negro",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/negro.mp4",
+      "originalName": "negro.mp4",
+      "storedPath": "colegio_expresa/negro.mp4",
+      "bytes": 2143408,
+      "officialHash": {
+        "md5": "8441b312f5c8e8161badcbc5f3f59f6b",
+        "sha1": "2d627908dfa4fd00e9388cf3cd3425ab491e5025"
+      },
+      "calculatedHash": {
+        "md5": "8441b312f5c8e8161badcbc5f3f59f6b",
+        "sha1": "2d627908dfa4fd00e9388cf3cd3425ab491e5025",
+        "sha256": "4d1850845f7befb94bbd2c2dd5d5dc8eead1f290e37337a9bd0d171c39573623"
+      },
+      "gloss": "Negro",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-nueve",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/nueve.mp4",
+      "originalName": "nueve.mp4",
+      "storedPath": "colegio_expresa/nueve.mp4",
+      "bytes": 1808002,
+      "officialHash": {
+        "md5": "7378320c1d8c1a82abeb88f42ee65147",
+        "sha1": "6d6f3122d965d4425e69970b5a4faf3de43605b8"
+      },
+      "calculatedHash": {
+        "md5": "7378320c1d8c1a82abeb88f42ee65147",
+        "sha1": "6d6f3122d965d4425e69970b5a4faf3de43605b8",
+        "sha256": "20855241c333a13f90c465feb2cb294891b717ec0ceb833cc5ad39f480b311fd"
+      },
+      "gloss": "Nueve",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-ocho",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/ocho.mp4",
+      "originalName": "ocho.mp4",
+      "storedPath": "colegio_expresa/ocho.mp4",
+      "bytes": 1829276,
+      "officialHash": {
+        "md5": "5f10c4d8eb87fe8430a3d6cc35210429",
+        "sha1": "5966be8698bd8a962fc8f60c01b8e39fc03d3486"
+      },
+      "calculatedHash": {
+        "md5": "5f10c4d8eb87fe8430a3d6cc35210429",
+        "sha1": "5966be8698bd8a962fc8f60c01b8e39fc03d3486",
+        "sha256": "9e9a788764900daf69581beababf63d3ae7bcccf8368eaf40164e49195f78fc9"
+      },
+      "gloss": "Ocho",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-profesora",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/profesora.mp4",
+      "originalName": "profesora.mp4",
+      "storedPath": "colegio_expresa/profesora.mp4",
+      "bytes": 1830928,
+      "officialHash": {
+        "md5": "464556a1af29eb1f5a15f331cdd51602",
+        "sha1": "b49c2d0ccdc82d8415e4b5b7a55662f568060098"
+      },
+      "calculatedHash": {
+        "md5": "464556a1af29eb1f5a15f331cdd51602",
+        "sha1": "b49c2d0ccdc82d8415e4b5b7a55662f568060098",
+        "sha256": "dfb8f90bcec38af864a13a018c8f7498e72211974b59ed307398e09a4143381d"
+      },
+      "gloss": "Profesora",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-pupitre",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/pupitre.mp4",
+      "originalName": "pupitre.mp4",
+      "storedPath": "colegio_expresa/pupitre.mp4",
+      "bytes": 1978337,
+      "officialHash": {
+        "md5": "f67eb0fc5191665b38a9f7c50557d6db",
+        "sha1": "f87ec7d7ec21cd0818ad283035305621a1a27af2"
+      },
+      "calculatedHash": {
+        "md5": "f67eb0fc5191665b38a9f7c50557d6db",
+        "sha1": "f87ec7d7ec21cd0818ad283035305621a1a27af2",
+        "sha256": "313e9efe9eb2626a731a0b91c7b01e42e1b17a609b510780a015bd7bb332c68a"
+      },
+      "gloss": "Pupitre",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-restar",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/restar.mp4",
+      "originalName": "restar.mp4",
+      "storedPath": "colegio_expresa/restar.mp4",
+      "bytes": 1825676,
+      "officialHash": {
+        "md5": "8f4a245051d43e50021fff77f93e83d3",
+        "sha1": "a1b5f80b56ac201635fa2c2f4b6376983c676a21"
+      },
+      "calculatedHash": {
+        "md5": "8f4a245051d43e50021fff77f93e83d3",
+        "sha1": "a1b5f80b56ac201635fa2c2f4b6376983c676a21",
+        "sha256": "e43acd19a2171a4e36882338d524d0791ce3f111f270cf910a47b8294a430f67"
+      },
+      "gloss": "Restar",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-rojo",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/rojo.mp4",
+      "originalName": "rojo.mp4",
+      "storedPath": "colegio_expresa/rojo.mp4",
+      "bytes": 1892385,
+      "officialHash": {
+        "md5": "320bc2611fb3f4f636efa87df89ca516",
+        "sha1": "c7f4a72689b8402c95c6ce710610dd96d4b9b352"
+      },
+      "calculatedHash": {
+        "md5": "320bc2611fb3f4f636efa87df89ca516",
+        "sha1": "c7f4a72689b8402c95c6ce710610dd96d4b9b352",
+        "sha256": "75d9e42bd56ccb0a3280235dcc58c5a9ef59945fd360df26824456992a0360bc"
+      },
+      "gloss": "Rojo",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-rosado",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/rosado.mp4",
+      "originalName": "rosado.mp4",
+      "storedPath": "colegio_expresa/rosado.mp4",
+      "bytes": 1840429,
+      "officialHash": {
+        "md5": "87c867d98d25d1cf7d0a5ebcf58b7813",
+        "sha1": "6d06f005e43993471e01da320bc5df8c0b9bac61"
+      },
+      "calculatedHash": {
+        "md5": "87c867d98d25d1cf7d0a5ebcf58b7813",
+        "sha1": "6d06f005e43993471e01da320bc5df8c0b9bac61",
+        "sha256": "ab65d8808395fc023e4b2b235e5f6bccb05d66fedb10852d87c8b6ad06636f4f"
+      },
+      "gloss": "Rosado",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-seis",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/seis.mp4",
+      "originalName": "seis.mp4",
+      "storedPath": "colegio_expresa/seis.mp4",
+      "bytes": 1880626,
+      "officialHash": {
+        "md5": "97f2a3a97b204bf464370918fdb7d249",
+        "sha1": "2bc21b7358aaba3f64cc3ea8bb989a9edb485a29"
+      },
+      "calculatedHash": {
+        "md5": "97f2a3a97b204bf464370918fdb7d249",
+        "sha1": "2bc21b7358aaba3f64cc3ea8bb989a9edb485a29",
+        "sha256": "f2008e22aff842dc9a74891e5ed31e738c1315a37979693f57026d83f544a0f9"
+      },
+      "gloss": "Seis",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-siete",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/siete.mp4",
+      "originalName": "siete.mp4",
+      "storedPath": "colegio_expresa/siete.mp4",
+      "bytes": 1795344,
+      "officialHash": {
+        "md5": "f4b29c08a5fb5d6c012ed681a779a4e5",
+        "sha1": "741f7e7b4d60b368694a6b9d994d3a3f3066feca"
+      },
+      "calculatedHash": {
+        "md5": "f4b29c08a5fb5d6c012ed681a779a4e5",
+        "sha1": "741f7e7b4d60b368694a6b9d994d3a3f3066feca",
+        "sha256": "92c5c1da563c8374cb130e9e196c0cfb4b3c05997c4fec5c4f6c64e2897038ca"
+      },
+      "gloss": "Siete",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-sumar",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/sumar.mp4",
+      "originalName": "sumar.mp4",
+      "storedPath": "colegio_expresa/sumar.mp4",
+      "bytes": 1930185,
+      "officialHash": {
+        "md5": "d74f3d96092fb5ff828c592a07663ae8",
+        "sha1": "40fe4395262db048d7ea6e1982e4199d9ba74fc2"
+      },
+      "calculatedHash": {
+        "md5": "d74f3d96092fb5ff828c592a07663ae8",
+        "sha1": "40fe4395262db048d7ea6e1982e4199d9ba74fc2",
+        "sha256": "4d82994b9159fa6b3910e41c00b7b6002216c814ed6d17fa262e130e05d8cd24"
+      },
+      "gloss": "Sumar",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-tablero",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/tablero.mp4",
+      "originalName": "tablero.mp4",
+      "storedPath": "colegio_expresa/tablero.mp4",
+      "bytes": 2201112,
+      "officialHash": {
+        "md5": "ab8502d5a9fbfe55f848db4abb250627",
+        "sha1": "6a230c1ee0ed26de21d9c96b117ff49e6cf9ccce"
+      },
+      "calculatedHash": {
+        "md5": "ab8502d5a9fbfe55f848db4abb250627",
+        "sha1": "6a230c1ee0ed26de21d9c96b117ff49e6cf9ccce",
+        "sha256": "95967c276e51a10a339a64c46e700b77a546a8d79b8d0b6377ebda9cfd848236"
+      },
+      "gloss": "Tablero",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-tres",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/tres.mp4",
+      "originalName": "tres.mp4",
+      "storedPath": "colegio_expresa/tres.mp4",
+      "bytes": 1703176,
+      "officialHash": {
+        "md5": "9b58fdbad69a8cd1c37cf5e65b398bc9",
+        "sha1": "323fbf3ddfdf4ad632d565baa7d37f42b246795d"
+      },
+      "calculatedHash": {
+        "md5": "9b58fdbad69a8cd1c37cf5e65b398bc9",
+        "sha1": "323fbf3ddfdf4ad632d565baa7d37f42b246795d",
+        "sha256": "775ab772ff3d79b4ed819cbf8a6fc1e1844edb4c1001558a9fe7be23416067a5"
+      },
+      "gloss": "Tres",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-uno",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/uno.mp4",
+      "originalName": "uno.mp4",
+      "storedPath": "colegio_expresa/uno.mp4",
+      "bytes": 1769709,
+      "officialHash": {
+        "md5": "4a4aaf2a2867b6a3dc96db701f5d9182",
+        "sha1": "a77de8d9564fdea58418f16fc2fb5b558d3e8885"
+      },
+      "calculatedHash": {
+        "md5": "4a4aaf2a2867b6a3dc96db701f5d9182",
+        "sha1": "a77de8d9564fdea58418f16fc2fb5b558d3e8885",
+        "sha256": "30bb235969c37f6ffcdcb3174e94bafecc284315767efe5ccb71d57802d3bdf5"
+      },
+      "gloss": "Uno",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-colegio-verde",
+      "identifier": "colegio_expresa",
+      "itemUrl": "https://archive.org/details/colegio_expresa",
+      "fileUrl": "https://archive.org/download/colegio_expresa/verde.mp4",
+      "originalName": "verde.mp4",
+      "storedPath": "colegio_expresa/verde.mp4",
+      "bytes": 1835257,
+      "officialHash": {
+        "md5": "a3f5f7eac36022b5f9abcc8cc699754f",
+        "sha1": "f751d586bb932a159e9b669408266f852f74c984"
+      },
+      "calculatedHash": {
+        "md5": "a3f5f7eac36022b5f9abcc8cc699754f",
+        "sha1": "f751d586bb932a159e9b669408266f852f74c984",
+        "sha256": "bc5be9b8ca6ef19e4f6d9724d74dec95c1c7309d959b10f83601f664bd2f1316"
+      },
+      "gloss": "Verde",
+      "category": "colegio",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-bano",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/bano.mp4",
+      "originalName": "bano.mp4",
+      "storedPath": "hogar_expresa/bano.mp4",
+      "bytes": 2022866,
+      "officialHash": {
+        "md5": "2811e005cb19f642317ad08a8bb559e9",
+        "sha1": "91caa32d2ba25ccfe1f59fdc88fbc6533756bd2e"
+      },
+      "calculatedHash": {
+        "md5": "2811e005cb19f642317ad08a8bb559e9",
+        "sha1": "91caa32d2ba25ccfe1f59fdc88fbc6533756bd2e",
+        "sha256": "a5d361421d0ce10079fd3e866c1c7be37be72730a49a1df1abcb82d8d195a0ab"
+      },
+      "gloss": "Baño",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-cama",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/cama.mp4",
+      "originalName": "cama.mp4",
+      "storedPath": "hogar_expresa/cama.mp4",
+      "bytes": 1883406,
+      "officialHash": {
+        "md5": "0e46497c183e13d3e297f11e0bd48bc5",
+        "sha1": "3704cfe3efe4869c25a389e16f7839e5b6e255a4"
+      },
+      "calculatedHash": {
+        "md5": "0e46497c183e13d3e297f11e0bd48bc5",
+        "sha1": "3704cfe3efe4869c25a389e16f7839e5b6e255a4",
+        "sha256": "45aefcb988bcc62785f1b396319d99719d187b14b6cd772beb0283d3913d299a"
+      },
+      "gloss": "Cama",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-cobija",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/cobija.mp4",
+      "originalName": "cobija.mp4",
+      "storedPath": "hogar_expresa/cobija.mp4",
+      "bytes": 1979198,
+      "officialHash": {
+        "md5": "ff9e186fcd475703551b976ccaadab1b",
+        "sha1": "acfd21599962de792a2283f6b7c01ecf32ba04c5"
+      },
+      "calculatedHash": {
+        "md5": "ff9e186fcd475703551b976ccaadab1b",
+        "sha1": "acfd21599962de792a2283f6b7c01ecf32ba04c5",
+        "sha256": "d3b0da4eb4c1b00c2dccae2b4e202d257dae82a11b81750ba02854283918396e"
+      },
+      "gloss": "Cobija",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-cocina",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/cocina.mp4",
+      "originalName": "cocina.mp4",
+      "storedPath": "hogar_expresa/cocina.mp4",
+      "bytes": 1807068,
+      "officialHash": {
+        "md5": "c68098d0cb376899f77cda49dbf16870",
+        "sha1": "b3c75d92ad9fabb236a95b21ee698be458a7bcba"
+      },
+      "calculatedHash": {
+        "md5": "c68098d0cb376899f77cda49dbf16870",
+        "sha1": "b3c75d92ad9fabb236a95b21ee698be458a7bcba",
+        "sha256": "afab4880184de6838f07c6bc9ad7129dba1f076c3dba7af5e10ed68198815750"
+      },
+      "gloss": "Cocina",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-cuchara",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/cuchara.mp4",
+      "originalName": "cuchara.mp4",
+      "storedPath": "hogar_expresa/cuchara.mp4",
+      "bytes": 1899577,
+      "officialHash": {
+        "md5": "e36c4a70f8643dd5cf2c39edea0c869f",
+        "sha1": "ad26ba7afc5f2a41471983a0681fd98d473f8bb5"
+      },
+      "calculatedHash": {
+        "md5": "e36c4a70f8643dd5cf2c39edea0c869f",
+        "sha1": "ad26ba7afc5f2a41471983a0681fd98d473f8bb5",
+        "sha256": "9a82b8f1be0464678a485884a83d4339c88fe69a96d273f6d45859deb1cf2278"
+      },
+      "gloss": "Cuchara",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-cuchillo",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/cuchillo.mp4",
+      "originalName": "cuchillo.mp4",
+      "storedPath": "hogar_expresa/cuchillo.mp4",
+      "bytes": 1919950,
+      "officialHash": {
+        "md5": "802245ac8a45ec1012eb6a377f1332b4",
+        "sha1": "1dca88fb3f709ba9a1cc7ee0272d8bc7f2ad80ae"
+      },
+      "calculatedHash": {
+        "md5": "802245ac8a45ec1012eb6a377f1332b4",
+        "sha1": "1dca88fb3f709ba9a1cc7ee0272d8bc7f2ad80ae",
+        "sha256": "91ba0a2b4abafe15eed6ae308890f8f2c393d85a8b5daa50742b2e41f3ad12ce"
+      },
+      "gloss": "Cuchillo",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-dormitorio",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/dormitorio.mp4",
+      "originalName": "dormitorio.mp4",
+      "storedPath": "hogar_expresa/dormitorio.mp4",
+      "bytes": 2022875,
+      "officialHash": {
+        "md5": "8d3b85ca87393f56c95ba56ee404f88a",
+        "sha1": "7556509db129ad5ced948580fb6a54168befd36e"
+      },
+      "calculatedHash": {
+        "md5": "8d3b85ca87393f56c95ba56ee404f88a",
+        "sha1": "7556509db129ad5ced948580fb6a54168befd36e",
+        "sha256": "152f3f9bb4cb76334f46f3867f50ff1a22784ebef545e18bc347aa95ad686119"
+      },
+      "gloss": "Dormitorio",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-ducha",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/ducha.mp4",
+      "originalName": "ducha.mp4",
+      "storedPath": "hogar_expresa/ducha.mp4",
+      "bytes": 1817717,
+      "officialHash": {
+        "md5": "69288d9df1637a5520df1c4f984ed4f3",
+        "sha1": "79acd63f2f2700eed4e9264425cf1d3db08c3ffc"
+      },
+      "calculatedHash": {
+        "md5": "69288d9df1637a5520df1c4f984ed4f3",
+        "sha1": "79acd63f2f2700eed4e9264425cf1d3db08c3ffc",
+        "sha256": "99b5c4c7b94f7ddc6c84ccc1cb6859e965746b1793ac2145f6aac05eab61f7ef"
+      },
+      "gloss": "Ducha",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-hijo",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/hijo.mp4",
+      "originalName": "hijo.mp4",
+      "storedPath": "hogar_expresa/hijo.mp4",
+      "bytes": 1774890,
+      "officialHash": {
+        "md5": "8ae005ebd498f8ca5c4974e48c5c4649",
+        "sha1": "fabbb6b26d86f6b5870ead6af680119fccacd333"
+      },
+      "calculatedHash": {
+        "md5": "8ae005ebd498f8ca5c4974e48c5c4649",
+        "sha1": "fabbb6b26d86f6b5870ead6af680119fccacd333",
+        "sha256": "213238db269db477a8bf7a1b74ea64e404c00bd8a8995ab5a47d867cc23c8e2d"
+      },
+      "gloss": "Hijo",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-hogar",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/hogar.mp4",
+      "originalName": "hogar.mp4",
+      "storedPath": "hogar_expresa/hogar.mp4",
+      "bytes": 1895210,
+      "officialHash": {
+        "md5": "214c70bed6bf01447d8f21df1798c026",
+        "sha1": "2a52c20ec072e1d23f788da0cd0681987565254b"
+      },
+      "calculatedHash": {
+        "md5": "214c70bed6bf01447d8f21df1798c026",
+        "sha1": "2a52c20ec072e1d23f788da0cd0681987565254b",
+        "sha256": "549926e487a1b70d6384a623df3ea232f5729f7f538ed9ac7f6413f52a4ca69b"
+      },
+      "gloss": "Hogar",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-inodoro",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/inodoro.mp4",
+      "originalName": "inodoro.mp4",
+      "storedPath": "hogar_expresa/inodoro.mp4",
+      "bytes": 2120910,
+      "officialHash": {
+        "md5": "9c54c183031ce0eef002d7846538c9be",
+        "sha1": "dd580d5463b1e28bca0caa8b631c98c5f2c860be"
+      },
+      "calculatedHash": {
+        "md5": "9c54c183031ce0eef002d7846538c9be",
+        "sha1": "dd580d5463b1e28bca0caa8b631c98c5f2c860be",
+        "sha256": "27eaa779ba6ae8684edba8c3c6e45ff59e21c64885535281dcef3b107c7d90b4"
+      },
+      "gloss": "Inodoro",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-lampara",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/lampara.mp4",
+      "originalName": "lampara.mp4",
+      "storedPath": "hogar_expresa/lampara.mp4",
+      "bytes": 1790386,
+      "officialHash": {
+        "md5": "03b692333593330a0c2a41c6f1cfd923",
+        "sha1": "1fa285563eb31aece08b0d051b9308c43913e28f"
+      },
+      "calculatedHash": {
+        "md5": "03b692333593330a0c2a41c6f1cfd923",
+        "sha1": "1fa285563eb31aece08b0d051b9308c43913e28f",
+        "sha256": "1853a314391b39f360d540a38b8f04326e91441c739ba4b05d38a36e6b639b7e"
+      },
+      "gloss": "Lámpara",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-lavamanos",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/lavamanos.mp4",
+      "originalName": "lavamanos.mp4",
+      "storedPath": "hogar_expresa/lavamanos.mp4",
+      "bytes": 1740100,
+      "officialHash": {
+        "md5": "be28089458c8001191422c04978ee003",
+        "sha1": "de8161efa8c0f6cf3df59b8c437c58d2ade73a9c"
+      },
+      "calculatedHash": {
+        "md5": "be28089458c8001191422c04978ee003",
+        "sha1": "de8161efa8c0f6cf3df59b8c437c58d2ade73a9c",
+        "sha256": "c2f9238c95aba4ec6a7cbe918a7b51a570c932fd16bb14e3f0923b873a0e9490"
+      },
+      "gloss": "Lavamanos",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-mama",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/mama.mp4",
+      "originalName": "mama.mp4",
+      "storedPath": "hogar_expresa/mama.mp4",
+      "bytes": 1807213,
+      "officialHash": {
+        "md5": "854498131ee6542b31175eaa19d7e657",
+        "sha1": "15c5cd635706eaa485650b19d02d1d54afa2c031"
+      },
+      "calculatedHash": {
+        "md5": "854498131ee6542b31175eaa19d7e657",
+        "sha1": "15c5cd635706eaa485650b19d02d1d54afa2c031",
+        "sha256": "1648208464f9435f5722425dcd7ff555c796a5765f68d5cf91ceac535fc6dd07"
+      },
+      "gloss": "Mamá",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-mesa",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/mesa.mp4",
+      "originalName": "mesa.mp4",
+      "storedPath": "hogar_expresa/mesa.mp4",
+      "bytes": 1816577,
+      "officialHash": {
+        "md5": "df88b81927cc1f5594089f37c7f72c47",
+        "sha1": "bf89b1664ec412f84a25696a6d4c4a01f754acef"
+      },
+      "calculatedHash": {
+        "md5": "df88b81927cc1f5594089f37c7f72c47",
+        "sha1": "bf89b1664ec412f84a25696a6d4c4a01f754acef",
+        "sha256": "7370b76fcccc67ee7ea599ad03cee69b6297d4c80ae663d9bed38795f61dc6bc"
+      },
+      "gloss": "Mesa",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-olla",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/olla.mp4",
+      "originalName": "olla.mp4",
+      "storedPath": "hogar_expresa/olla.mp4",
+      "bytes": 1672967,
+      "officialHash": {
+        "md5": "db5a23b8642cdc3a52215f071f859068",
+        "sha1": "dda1db68a6b215823bafef2e5b861033ce0320a2"
+      },
+      "calculatedHash": {
+        "md5": "db5a23b8642cdc3a52215f071f859068",
+        "sha1": "dda1db68a6b215823bafef2e5b861033ce0320a2",
+        "sha256": "d3f90d1c230668c1ff22205b534567d50e31fd4745000ea20079a85c57af0af9"
+      },
+      "gloss": "Olla",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-papa",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/papa.mp4",
+      "originalName": "papa.mp4",
+      "storedPath": "hogar_expresa/papa.mp4",
+      "bytes": 1611898,
+      "officialHash": {
+        "md5": "5d1f024bf610698e59d1d5a996900933",
+        "sha1": "67883df16935e09c7b5ab420e9d6277c5e1989a9"
+      },
+      "calculatedHash": {
+        "md5": "5d1f024bf610698e59d1d5a996900933",
+        "sha1": "67883df16935e09c7b5ab420e9d6277c5e1989a9",
+        "sha256": "9894a7ca2984c826cf0155ffb265594d91ec8d52b53f76d7fadcb57dc0a7ce65"
+      },
+      "gloss": "Papá",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-sala",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/sala.mp4",
+      "originalName": "sala.mp4",
+      "storedPath": "hogar_expresa/sala.mp4",
+      "bytes": 1795882,
+      "officialHash": {
+        "md5": "ee8a3f4299ed438aff4b9d6d3afa7639",
+        "sha1": "f6b1058264c767c86d08ce9fb2668f68f6da124e"
+      },
+      "calculatedHash": {
+        "md5": "ee8a3f4299ed438aff4b9d6d3afa7639",
+        "sha1": "f6b1058264c767c86d08ce9fb2668f68f6da124e",
+        "sha256": "446e95b49c6dbc105fbdee0724a147389c9ad79282549840f4f51ae5888b3868"
+      },
+      "gloss": "Sala",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-sofa",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/sofa.mp4",
+      "originalName": "sofa.mp4",
+      "storedPath": "hogar_expresa/sofa.mp4",
+      "bytes": 1862280,
+      "officialHash": {
+        "md5": "7f5420074036145f70552c4a47064a3e",
+        "sha1": "c7e4ef8fb83f225b96ee7bc1877bd74515ccb147"
+      },
+      "calculatedHash": {
+        "md5": "7f5420074036145f70552c4a47064a3e",
+        "sha1": "c7e4ef8fb83f225b96ee7bc1877bd74515ccb147",
+        "sha256": "b61b63b2cf52f66cf9eab5224e2dcbbf55a37ad36339967eb4ced539b946a34f"
+      },
+      "gloss": "Sofa",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-hogar-tenedor",
+      "identifier": "hogar_expresa",
+      "itemUrl": "https://archive.org/details/hogar_expresa",
+      "fileUrl": "https://archive.org/download/hogar_expresa/tenedor.mp4",
+      "originalName": "tenedor.mp4",
+      "storedPath": "hogar_expresa/tenedor.mp4",
+      "bytes": 2061782,
+      "officialHash": {
+        "md5": "363d63767c5397c7e185dffe25b33cf9",
+        "sha1": "5844b80aa930de7ea6f319849407349801ad9122"
+      },
+      "calculatedHash": {
+        "md5": "363d63767c5397c7e185dffe25b33cf9",
+        "sha1": "5844b80aa930de7ea6f319849407349801ad9122",
+        "sha256": "fb66d5bc168feb5cd90a6f6cd484b339676a2f25174d1996d5ace63cfbc86fc6"
+      },
+      "gloss": "Tenedor",
+      "category": "hogar",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-agua",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/agua.mp4",
+      "originalName": "agua.mp4",
+      "storedPath": "comidas_bebidas_expresa/agua.mp4",
+      "bytes": 1867156,
+      "officialHash": {
+        "md5": "48cde86eb6666784654a6c661f0128be",
+        "sha1": "c5c6db2f5be37c03dbb97a932523834209539ddc"
+      },
+      "calculatedHash": {
+        "md5": "48cde86eb6666784654a6c661f0128be",
+        "sha1": "c5c6db2f5be37c03dbb97a932523834209539ddc",
+        "sha256": "cc0b6d4e6f2fa67da7f8b8116bf4f3e8159664776a0a5d6dfc62d0b71eaf2ff2"
+      },
+      "gloss": "Agua",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-arroz",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/arroz.mp4",
+      "originalName": "arroz.mp4",
+      "storedPath": "comidas_bebidas_expresa/arroz.mp4",
+      "bytes": 2004833,
+      "officialHash": {
+        "md5": "0b2065e04ff2515d0c11d95a221bb151",
+        "sha1": "5616951d727d13e9fc3cb0e4da4ded235d7c5f4f"
+      },
+      "calculatedHash": {
+        "md5": "0b2065e04ff2515d0c11d95a221bb151",
+        "sha1": "5616951d727d13e9fc3cb0e4da4ded235d7c5f4f",
+        "sha256": "b0ff3572c792649ecd4bb51bec10cbbb16682e7003ae232157b5130d7aed3269"
+      },
+      "gloss": "Arroz",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-bebida",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/bebida.mp4",
+      "originalName": "bebida.mp4",
+      "storedPath": "comidas_bebidas_expresa/bebida.mp4",
+      "bytes": 1740219,
+      "officialHash": {
+        "md5": "e6a8a5e94869ae98a842a439d87ef093",
+        "sha1": "294fa661113e04489055f2991414237b6af3b5a1"
+      },
+      "calculatedHash": {
+        "md5": "e6a8a5e94869ae98a842a439d87ef093",
+        "sha1": "294fa661113e04489055f2991414237b6af3b5a1",
+        "sha256": "74a3486d692c9739cb297010d026e86869cc032a5825845cffcf658c851d3245"
+      },
+      "gloss": "Bebida",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-cafe",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/cafe.mp4",
+      "originalName": "cafe.mp4",
+      "storedPath": "comidas_bebidas_expresa/cafe.mp4",
+      "bytes": 1915300,
+      "officialHash": {
+        "md5": "8dbd55a2df91b9ee1e06629d316a4f70",
+        "sha1": "019826bb89c23843a88306422cee096ed6dc183a"
+      },
+      "calculatedHash": {
+        "md5": "8dbd55a2df91b9ee1e06629d316a4f70",
+        "sha1": "019826bb89c23843a88306422cee096ed6dc183a",
+        "sha256": "e32b481af9576682514fcee8ac77cf58e6522772587b90ef85882cd9a68ad700"
+      },
+      "gloss": "Café",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-carne",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/carne.mp4",
+      "originalName": "carne.mp4",
+      "storedPath": "comidas_bebidas_expresa/carne.mp4",
+      "bytes": 1894605,
+      "officialHash": {
+        "md5": "64dea1d3a0d4066c44324d22099ceb6c",
+        "sha1": "4ed0c82a7b12f882280c3de7e08df93ddc9c74d2"
+      },
+      "calculatedHash": {
+        "md5": "64dea1d3a0d4066c44324d22099ceb6c",
+        "sha1": "4ed0c82a7b12f882280c3de7e08df93ddc9c74d2",
+        "sha256": "62cc383bea8079e772a62c707dcb5c698cce244904275bbba842f57dc354cde3"
+      },
+      "gloss": "Carne",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-comida",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/comida.mp4",
+      "originalName": "comida.mp4",
+      "storedPath": "comidas_bebidas_expresa/comida.mp4",
+      "bytes": 1922859,
+      "officialHash": {
+        "md5": "901b41dbe2bbd10c1c8e8d64dd9a08ec",
+        "sha1": "6b75756c153dcaf408f0cdd6e36530c6c0334ca0"
+      },
+      "calculatedHash": {
+        "md5": "901b41dbe2bbd10c1c8e8d64dd9a08ec",
+        "sha1": "6b75756c153dcaf408f0cdd6e36530c6c0334ca0",
+        "sha256": "8bc19ec1b72d0fc116c017dfc6129904830cefdc584fd3a0d8ad75aa56b8ab82"
+      },
+      "gloss": "Comida",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-huevo",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/huevo.mp4",
+      "originalName": "huevo.mp4",
+      "storedPath": "comidas_bebidas_expresa/huevo.mp4",
+      "bytes": 1827094,
+      "officialHash": {
+        "md5": "0f3d902444b32472b420953a00788ca0",
+        "sha1": "44f77ea5343b899d893a123ccb13817d5b0fca5c"
+      },
+      "calculatedHash": {
+        "md5": "0f3d902444b32472b420953a00788ca0",
+        "sha1": "44f77ea5343b899d893a123ccb13817d5b0fca5c",
+        "sha256": "ae688914638a614236d7725ff5b854fd437d0f65f4c3b5529727de3ab091775d"
+      },
+      "gloss": "Huevo",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-jugo",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/jugo.mp4",
+      "originalName": "jugo.mp4",
+      "storedPath": "comidas_bebidas_expresa/jugo.mp4",
+      "bytes": 1860961,
+      "officialHash": {
+        "md5": "b673bfc2e4ad914643e8d01b9208b17c",
+        "sha1": "bc10ac89b36925fff5d2aaa9814a4f723c660e2a"
+      },
+      "calculatedHash": {
+        "md5": "b673bfc2e4ad914643e8d01b9208b17c",
+        "sha1": "bc10ac89b36925fff5d2aaa9814a4f723c660e2a",
+        "sha256": "c4c892decebf7a674b5b86abee04dfdac292a4ed55d740f900bf0b7f8d9e0aaf"
+      },
+      "gloss": "Jugo",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-leche",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/leche.mp4",
+      "originalName": "leche.mp4",
+      "storedPath": "comidas_bebidas_expresa/leche.mp4",
+      "bytes": 1865573,
+      "officialHash": {
+        "md5": "de71a82cbbe34e506ffc462f33a78a40",
+        "sha1": "350d3fdf9940319f51f3d15f2c57c61a87b8a95e"
+      },
+      "calculatedHash": {
+        "md5": "de71a82cbbe34e506ffc462f33a78a40",
+        "sha1": "350d3fdf9940319f51f3d15f2c57c61a87b8a95e",
+        "sha256": "3dfac9c01f0b1adcc5baa3067bed1ae17939d52bf4e38e9469279e1cef617d48"
+      },
+      "gloss": "Leche",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-pan",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/pan.mp4",
+      "originalName": "pan.mp4",
+      "storedPath": "comidas_bebidas_expresa/pan.mp4",
+      "bytes": 1950870,
+      "officialHash": {
+        "md5": "faeb49826f2796acff0e16c8c0e24ff1",
+        "sha1": "eea36138e4efa967421e30e7cba9ebf2a65631f4"
+      },
+      "calculatedHash": {
+        "md5": "faeb49826f2796acff0e16c8c0e24ff1",
+        "sha1": "eea36138e4efa967421e30e7cba9ebf2a65631f4",
+        "sha256": "67e66dd18f88216557dba674a513c01c63558f29a25e8604c54ed46f5daba0a2"
+      },
+      "gloss": "Pan",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-comidas_bebidas-sopa",
+      "identifier": "comidas_bebidas_expresa",
+      "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+      "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/sopa.mp4",
+      "originalName": "sopa.mp4",
+      "storedPath": "comidas_bebidas_expresa/sopa.mp4",
+      "bytes": 1782281,
+      "officialHash": {
+        "md5": "ef7b1c0f68276820de3c572938591184",
+        "sha1": "26c8f888fe8bf33fab6c403f4765a4bead371c11"
+      },
+      "calculatedHash": {
+        "md5": "ef7b1c0f68276820de3c572938591184",
+        "sha1": "26c8f888fe8bf33fab6c403f4765a4bead371c11",
+        "sha256": "bcb65f768733e7721fbdfdce66d8e73982174583e0f5e63edae80fc0d1935245"
+      },
+      "gloss": "Sopa",
+      "category": "comida-bebida",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-boca",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/boca.mp4",
+      "originalName": "boca.mp4",
+      "storedPath": "cuerpo_expresa/boca.mp4",
+      "bytes": 1856802,
+      "officialHash": {
+        "md5": "5e64adad4a69379362cb469f1f998bff",
+        "sha1": "077b244264cf280521d3ea41d28489b5f53dd73f"
+      },
+      "calculatedHash": {
+        "md5": "5e64adad4a69379362cb469f1f998bff",
+        "sha1": "077b244264cf280521d3ea41d28489b5f53dd73f",
+        "sha256": "c30a24fcc11bbd00dc9b91771d31da0eddd8aaa27d5c397d677a2a4ca872637e"
+      },
+      "gloss": "Boca",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-brazo",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/brazo.mp4",
+      "originalName": "brazo.mp4",
+      "storedPath": "cuerpo_expresa/brazo.mp4",
+      "bytes": 1846382,
+      "officialHash": {
+        "md5": "e6bc9bb8664b39104ad9dee28e3207ac",
+        "sha1": "1edea7b76fb5fee58a8984c96772406fcf187b54"
+      },
+      "calculatedHash": {
+        "md5": "e6bc9bb8664b39104ad9dee28e3207ac",
+        "sha1": "1edea7b76fb5fee58a8984c96772406fcf187b54",
+        "sha256": "84569f677de6e3ee5deaf10507c73d8b5b3414812cdda93871d47f5d4a4b26fa"
+      },
+      "gloss": "Brazo",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-cabeza",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/cabeza.mp4",
+      "originalName": "cabeza.mp4",
+      "storedPath": "cuerpo_expresa/cabeza.mp4",
+      "bytes": 1762331,
+      "officialHash": {
+        "md5": "c55ba271796a618e26ceba77f775a70e",
+        "sha1": "19f4d42e34fb36299cb1ba6df136bd3a82644458"
+      },
+      "calculatedHash": {
+        "md5": "c55ba271796a618e26ceba77f775a70e",
+        "sha1": "19f4d42e34fb36299cb1ba6df136bd3a82644458",
+        "sha256": "866d6ef851bbf19b1950febd2bd761c13f230e31c2b62ff2cce0d2d70338e803"
+      },
+      "gloss": "Cabeza",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-corazon",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/corazon.mp4",
+      "originalName": "corazon.mp4",
+      "storedPath": "cuerpo_expresa/corazon.mp4",
+      "bytes": 1828676,
+      "officialHash": {
+        "md5": "a88b9a0ee901bcae6b6b488b85af9fe5",
+        "sha1": "37c02a96904f5eb2d0e4e635176c20be1e1fdca0"
+      },
+      "calculatedHash": {
+        "md5": "a88b9a0ee901bcae6b6b488b85af9fe5",
+        "sha1": "37c02a96904f5eb2d0e4e635176c20be1e1fdca0",
+        "sha256": "9dcc7f29fb3ab0c4c7499f0d8a52ac5b20fa4663c59c7151fb48adac3b060c8d"
+      },
+      "gloss": "Corazón",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-cuerpo",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/cuerpo.mp4",
+      "originalName": "cuerpo.mp4",
+      "storedPath": "cuerpo_expresa/cuerpo.mp4",
+      "bytes": 1828774,
+      "officialHash": {
+        "md5": "0581ac4038dd833194cd7c2b8f7577ce",
+        "sha1": "3ee90df3499640c3701a363d53d6a96179ed3cb5"
+      },
+      "calculatedHash": {
+        "md5": "0581ac4038dd833194cd7c2b8f7577ce",
+        "sha1": "3ee90df3499640c3701a363d53d6a96179ed3cb5",
+        "sha256": "1cdbb49f212111b7a1cd1e43940ec44d2aa58251c0486a521102b79c6403aed3"
+      },
+      "gloss": "Cuerpo",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-dedo",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/dedo.mp4",
+      "originalName": "dedo.mp4",
+      "storedPath": "cuerpo_expresa/dedo.mp4",
+      "bytes": 1935589,
+      "officialHash": {
+        "md5": "7257cd31cb3556ae3221b74e90563107",
+        "sha1": "43ffae99872e54340ae9c4a5209f72eb20d07a80"
+      },
+      "calculatedHash": {
+        "md5": "7257cd31cb3556ae3221b74e90563107",
+        "sha1": "43ffae99872e54340ae9c4a5209f72eb20d07a80",
+        "sha256": "2f50bef5cc2a052996fa629f6c147e0d7aa56b5aa0f5563ae96494f17d9cb660"
+      },
+      "gloss": "Dedo",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-dormir",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/dormir.mp4",
+      "originalName": "dormir.mp4",
+      "storedPath": "cuerpo_expresa/dormir.mp4",
+      "bytes": 1957960,
+      "officialHash": {
+        "md5": "6bfa2857db923512e5516add61744bf2",
+        "sha1": "8785ae606756fae7a743c9bfa3f61b61a4b6363f"
+      },
+      "calculatedHash": {
+        "md5": "6bfa2857db923512e5516add61744bf2",
+        "sha1": "8785ae606756fae7a743c9bfa3f61b61a4b6363f",
+        "sha256": "0c6b6a3cdaae2b87053e256a69681865b5583a076d22a6fe807de0f5db619306"
+      },
+      "gloss": "Dormir",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-jugar",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/jugar.mp4",
+      "originalName": "jugar.mp4",
+      "storedPath": "cuerpo_expresa/jugar.mp4",
+      "bytes": 1961208,
+      "officialHash": {
+        "md5": "f1d06128761c8c52c2e4c83eaae7c3e4",
+        "sha1": "4f5b48ae4fde5372ad5ffe03ff533dcdf335794f"
+      },
+      "calculatedHash": {
+        "md5": "f1d06128761c8c52c2e4c83eaae7c3e4",
+        "sha1": "4f5b48ae4fde5372ad5ffe03ff533dcdf335794f",
+        "sha256": "634ef6fff8411436897dc9055a0f7b0f0ce25ad8954fb6158b34eed2c930028a"
+      },
+      "gloss": "Jugar",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-mano",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/mano.mp4",
+      "originalName": "mano.mp4",
+      "storedPath": "cuerpo_expresa/mano.mp4",
+      "bytes": 1829227,
+      "officialHash": {
+        "md5": "82d260eba892ae21d2b8882d33c98ee8",
+        "sha1": "b42f1a9baf4255daab6b92b26ed6ba2f34a4716f"
+      },
+      "calculatedHash": {
+        "md5": "82d260eba892ae21d2b8882d33c98ee8",
+        "sha1": "b42f1a9baf4255daab6b92b26ed6ba2f34a4716f",
+        "sha256": "cc3dc0fedc20a426a67e3bfd0ab5ecce661dd06702d38f6632e967cfe4e3562e"
+      },
+      "gloss": "Mano",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-nariz",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/nariz.mp4",
+      "originalName": "nariz.mp4",
+      "storedPath": "cuerpo_expresa/nariz.mp4",
+      "bytes": 1869182,
+      "officialHash": {
+        "md5": "12b6455d2da6f56294a261226bfabd1b",
+        "sha1": "e96d5d7e2c55e5c50a10d8b0dd52c1932c9ac07d"
+      },
+      "calculatedHash": {
+        "md5": "12b6455d2da6f56294a261226bfabd1b",
+        "sha1": "e96d5d7e2c55e5c50a10d8b0dd52c1932c9ac07d",
+        "sha256": "360a7c3f2050b362773be5fce04a3a271c77f9bdc1ef86549859ad9cec74d3b5"
+      },
+      "gloss": "Nariz",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-ojo",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/ojo.mp4",
+      "originalName": "ojo.mp4",
+      "storedPath": "cuerpo_expresa/ojo.mp4",
+      "bytes": 1474764,
+      "officialHash": {
+        "md5": "240083abde0ee5144848ff18a484de0a",
+        "sha1": "b0b7f925fed44bdeb59a5480f6077e4613bb98b7"
+      },
+      "calculatedHash": {
+        "md5": "240083abde0ee5144848ff18a484de0a",
+        "sha1": "b0b7f925fed44bdeb59a5480f6077e4613bb98b7",
+        "sha256": "a8ad84975cc352eb6ebe0e4f79e68576445346b1098eca3966f12d3c935911b0"
+      },
+      "gloss": "Ojo",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-pie",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/pie.mp4",
+      "originalName": "pie.mp4",
+      "storedPath": "cuerpo_expresa/pie.mp4",
+      "bytes": 1841637,
+      "officialHash": {
+        "md5": "e8747b63fde8fda450b85be8f45bc4b7",
+        "sha1": "aa50f9a70383b5775074ee2e6e5dd5372dff6458"
+      },
+      "calculatedHash": {
+        "md5": "e8747b63fde8fda450b85be8f45bc4b7",
+        "sha1": "aa50f9a70383b5775074ee2e6e5dd5372dff6458",
+        "sha256": "34f624dd7c1dbf47249b4379b673f98d10f32296d1bd9bebc69629637968e792"
+      },
+      "gloss": "Pie",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    },
+    {
+      "id": "expresa-cuerpo-reir",
+      "identifier": "cuerpo_expresa",
+      "itemUrl": "https://archive.org/details/cuerpo_expresa",
+      "fileUrl": "https://archive.org/download/cuerpo_expresa/reir.mp4",
+      "originalName": "reir.mp4",
+      "storedPath": "cuerpo_expresa/reir.mp4",
+      "bytes": 1580645,
+      "officialHash": {
+        "md5": "7129333a64165d212606da2e2ace8bf8",
+        "sha1": "e1fdadc4f71fa836057dd1501b8facfac5c744fc"
+      },
+      "calculatedHash": {
+        "md5": "7129333a64165d212606da2e2ace8bf8",
+        "sha1": "e1fdadc4f71fa836057dd1501b8facfac5c744fc",
+        "sha256": "d95d9b0bedcee4ed82593f22f6d8a0f23e2cb0010af46654b4af79d217e34b84"
+      },
+      "gloss": "Reír",
+      "category": "cuerpo-acciones",
+      "source": "original",
+      "codec": "h264",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA",
+      "transformation": "none"
+    }
+  ],
+  "omitted": []
+}
