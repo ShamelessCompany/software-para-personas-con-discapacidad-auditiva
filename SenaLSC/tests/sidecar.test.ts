@@ -125,6 +125,90 @@ describe("AsrSidecar", () => {
     expect(deps.spawnProcess).toHaveBeenCalledTimes(2);
   });
 
+  it("rechaza cambios de configuración en vivo sin alterar la sesión activa", async () => {
+    const child = new FakeChild();
+    const statuses: SidecarStatus[] = [];
+    const deps = dependencies(child);
+    const sidecar = new AsrSidecar({ onResult: () => undefined, onStatus: (status) => statuses.push(status) }, deps);
+    const starting = sidecar.start(16_000, "light");
+    const queuedInspection = sidecar.inspect("precise");
+    child.stdout.write('{"type":"ready"}\n');
+    const active = await starting;
+    expect(active.status).toMatchObject({ activeProfile: "light", requestedProfile: "light", modelPath: "/model", sessionId: 1, ready: true });
+    expect(await queuedInspection).toEqual(active.status);
+    for (const [rate, profile] of [[16_000, "precise"], [48_000, "light"]] as const) {
+      const before = statuses.length;
+      await expect(sidecar.start(rate, profile)).rejects.toThrow("Detén el reconocimiento antes de cambiar el perfil o la frecuencia de muestreo.");
+      expect(statuses).toHaveLength(before);
+      expect(await sidecar.inspect("precise")).toEqual(active.status);
+    }
+    expect(await sidecar.start(16_000, "light")).toEqual(active);
+    expect(deps.spawnProcess).toHaveBeenCalledTimes(1);
+    expect(deps.selfTestRuntime).toHaveBeenCalledTimes(1);
+    expect(child.stdin.read()).toBeNull();
+    expect(child.kill).not.toHaveBeenCalled();
+    await sidecar.stop();
+  });
+
+  it("absorbe EPIPE activo, invalida la sesión y descarta salida tardía", async () => {
+    const child = new FakeChild();
+    const statuses: SidecarStatus[] = [];
+    const onResult = vi.fn();
+    const sidecar = new AsrSidecar({ onResult, onStatus: (status) => statuses.push(status) }, dependencies(child));
+    const starting = sidecar.start(16_000);
+    child.stdout.write('{"type":"ready"}\n');
+    await starting;
+    sidecar.sendAudio(new Uint8Array(1_920));
+    const error = Object.assign(new Error("write EPIPE"), { code: "EPIPE", syscall: "write" });
+    expect(() => child.stdin.emit("error", error)).not.toThrow();
+    expect(statuses).toContainEqual(expect.objectContaining({ lifecycle: SIDECAR_LIFECYCLE.ERROR, ready: false, sessionId: null, message: "Falló el envío de audio al reconocedor: write EPIPE" }));
+    expect(child.kill).toHaveBeenCalledTimes(1);
+    expect(statuses.at(-1)).toMatchObject({ ready: false, sessionId: null, processRunning: false, audioPendingMs: 0 });
+    child.stdout.write('{"type":"final","text":"tardío"}\n');
+    expect(() => child.stdin.emit("error", error)).not.toThrow();
+    sidecar.sendAudio(new Uint8Array(1_920));
+    await new Promise((resolve) => setImmediate(resolve));
+    expect(onResult).not.toHaveBeenCalled();
+    expect(child.kill).toHaveBeenCalledTimes(1);
+    await sidecar.stop();
+  });
+
+  it("preserva inicio idempotente, audio sano y cierre normal pese a errores tardíos", async () => {
+    const first = new FakeChild();
+    const second = new FakeChild();
+    const deps = dependencies(first);
+    deps.spawnProcess = vi.fn().mockReturnValueOnce(childProcess(first)).mockReturnValueOnce(childProcess(second));
+    const statuses: SidecarStatus[] = [];
+    const onResult = vi.fn();
+    const sidecar = new AsrSidecar({ onResult, onStatus: (status) => statuses.push(status) }, deps);
+    const starting = sidecar.start(16_000);
+    first.stdout.write('{"type":"ready"}\n');
+    const active = await starting;
+    expect(await sidecar.start(16_000)).toEqual(active);
+    expect(deps.spawnProcess).toHaveBeenCalledTimes(1);
+    sidecar.sendAudio(new Uint8Array(1_920));
+    const audioPayload: unknown = first.stdin.read();
+    expect(Buffer.isBuffer(audioPayload)).toBe(true);
+    if (!Buffer.isBuffer(audioPayload)) throw new Error("Falta el bloque de audio.");
+    expect(JSON.parse(audioPayload.toString())).toEqual({ type: "audio", data: Buffer.alloc(1_920).toString("base64") });
+    const stopping = sidecar.stop();
+    expect(() => first.stdin.emit("error", new Error("write EPIPE"))).not.toThrow();
+    first.stdout.write('{"type":"final","text":"fin","cause":"stop-flush","resultAtMs":2}\n');
+    first.emit("close", 0, null);
+    expect(await stopping).toMatchObject({ lifecycle: SIDECAR_LIFECYCLE.STOPPED, sessionId: null, ready: true });
+    expect(onResult).toHaveBeenCalledWith(expect.objectContaining({ text: "fin", sessionId: 1 }));
+    expect(statuses.some((status) => status.lifecycle === SIDECAR_LIFECYCLE.ERROR)).toBe(false);
+    const restarting = sidecar.start(16_000);
+    second.stdout.write('{"type":"ready"}\n');
+    const replacement = await restarting;
+    const count = statuses.length;
+    expect(() => first.stdin.emit("error", new Error("write EPIPE"))).not.toThrow();
+    expect(statuses).toHaveLength(count);
+    expect(await sidecar.start(16_000)).toEqual(replacement);
+    expect(second.kill).not.toHaveBeenCalled();
+    await sidecar.stop();
+  });
+
   it("reporta fallo y nunca ready cuando el proceso muere con código nulo", async () => {
     const child = new FakeChild();
     const statuses: SidecarStatus[] = [];

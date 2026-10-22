@@ -52,6 +52,11 @@ interface RuntimeInspection {
   kind?: "pyinstaller" | "embedded-python" | "development-python";
 }
 
+interface StartConfiguration {
+  sampleRate: number;
+  profile: AsrProfile;
+}
+
 interface ExitResult {
   code: number | null;
   signal: NodeJS.Signals | null;
@@ -264,6 +269,7 @@ export class AsrSidecar {
   private processGeneration: number | null = null;
   private activeSessionId: number | null = null;
   private ownerSessionId: number | null = null;
+  private startConfiguration: StartConfiguration | null = null;
   private requestedProfile: AsrProfile = ASR_PROFILE.LIGHT;
   private activeProfile: AsrProfile = ASR_PROFILE.LIGHT;
   private activeModelPath: string;
@@ -285,12 +291,18 @@ export class AsrSidecar {
   }
 
   inspect(profile: AsrProfile = ASR_PROFILE.LIGHT): Promise<SidecarStatus> {
-    this.requestedProfile = profile;
-    return this.enqueue(() => this.inspectInternal());
+    return this.enqueue(() => {
+      if (this.process) return Promise.resolve(this.emitCurrentStatus(this.lastStatus?.message ?? "Reconocimiento local activo."));
+      this.requestedProfile = profile;
+      return this.inspectInternal();
+    });
   }
 
   start(sampleRate: number, profile: AsrProfile = ASR_PROFILE.LIGHT): Promise<SidecarStartResult> {
-    this.requestedProfile = profile;
+    if (this.lifecycle === SIDECAR_LIFECYCLE.RUNNING && this.process && this.activeSessionId !== null
+      && (this.startConfiguration?.profile !== profile || this.startConfiguration.sampleRate !== sampleRate)) {
+      return Promise.reject(new Error("Detén el reconocimiento antes de cambiar el perfil o la frecuencia de muestreo."));
+    }
     const generation = ++this.operationGeneration;
     if (this.lifecycle === SIDECAR_LIFECYCLE.RUNNING && this.process && this.activeSessionId !== null) {
       this.processGeneration = generation;
@@ -301,7 +313,7 @@ export class AsrSidecar {
       const status = this.emitCurrentStatus("Cancelando el inicio anterior...");
       this.resolveStartup(status);
     }
-    return this.enqueue(() => this.startInternal(sampleRate, generation));
+    return this.enqueue(() => this.startInternal(sampleRate, generation, profile));
   }
 
   stop(): Promise<SidecarStatus> {
@@ -449,12 +461,10 @@ export class AsrSidecar {
     return this.setStatus(status);
   }
 
-  private async startInternal(sampleRate: number, generation: number): Promise<SidecarStartResult> {
+  private async startInternal(sampleRate: number, generation: number, profile: AsrProfile): Promise<SidecarStartResult> {
     if (!this.isCurrentGeneration(generation)) return this.cancelledStartResult();
     if (this.lifecycle === SIDECAR_LIFECYCLE.RUNNING && this.process && this.activeSessionId !== null) {
-      const status = await this.inspectInternal(generation);
-      if (!this.isCurrentGeneration(generation) || !status) return this.cancelledStartResult();
-      return { status, sessionId: this.activeSessionId };
+      return { status: this.emitCurrentStatus(this.lastStatus?.message ?? "Reconocimiento local activo."), sessionId: this.activeSessionId };
     }
 
     if (this.process) {
@@ -463,6 +473,7 @@ export class AsrSidecar {
     }
     if (this.lifecycle === SIDECAR_LIFECYCLE.ERROR) this.lifecycle = SIDECAR_LIFECYCLE.STOPPED;
 
+    this.requestedProfile = profile;
     const available = await this.inspectInternal(generation);
     if (!this.isCurrentGeneration(generation) || !available) return this.cancelledStartResult();
     if (!available.ready || !this.pythonExecutable) return { status: available, sessionId: null };
@@ -504,12 +515,19 @@ export class AsrSidecar {
       return this.cancelledStartResult();
     }
     this.process = child;
+    this.startConfiguration = { sampleRate, profile };
     this.output = createInterface({ input: child.stdout });
     this.output.on("line", (line) => this.handleLine(child, sessionId, line));
     child.stdin.on("drain", () => {
       if (!this.acceptsProcessEvent(child, sessionId)) return;
       this.backpressure.onDrain(child.stdin);
       this.emitCurrentStatus(this.lifecycle === SIDECAR_LIFECYCLE.STOPPING ? "Finalizando la última frase..." : "Reconocimiento local activo.");
+    });
+    child.stdin.on("error", (error: Error) => {
+      if (!this.acceptsProcessEvent(child, sessionId) || this.expectedExit) return;
+      this.activeSessionId = null;
+      this.failAudioFlow(child, `Falló el envío de audio al reconocedor: ${error.message}`);
+      this.resolveStartup(this.lastStatus as SidecarStatus);
     });
     child.stderr.on("data", (chunk: Buffer) => {
       if (!this.acceptsProcessEvent(child, sessionId)) return;
