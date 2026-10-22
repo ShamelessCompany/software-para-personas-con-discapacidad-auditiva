@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T00:28:23.737Z",
+  "archive": {
+    "name": "senalsc-univalle.zip",
+    "url": "https://www.kaggle.com/api/v1/datasets/download/juanrrai/colombian-sign-language-slc-signs-dataset?datasetVersionNumber=1",
+    "bytes": 534576388,
+    "sha256": "2d9a893c00fbdec8cc4d51e6aa3bb6b666d0f1a58ed1663badd947098c129cf8"
+  },
+  "selection": {
+    "signerId": "00",
+    "recordingId": "000",
+    "rationale": "Una toma representativa por glosa sin equivalente canónico de mayor prioridad; movimiento completo conservado."
+  },
+  "clips": [
+    {
+      "classId": "01",
+      "phrase": "Bonito",
+      "originalName": "lsc-signs-dataset/raw/bonito/01_00_000.mp4",
+      "originalSha256": "1e9b4670b2f37b22a0f0cb0f8d0e7abae46c6b965c070c79240552a395cbde36",
+      "originalBytes": 10335651,
+      "convertedName": "01-bonito.mp4",
+      "convertedSha256": "b62e6159817274bd017dad58985a9dd162f253c0682d886d238c43e23571549a",
+      "convertedBytes": 581767,
+      "durationMs": 6673,
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "transformation": "Selected signer 00 recording; converted MP4 H.264 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 24, faststart; audio removed; no trim, mirror, speed change, or looping added. This clip adaptation is distributed under CC BY-SA 4.0."
+    },
+    {
+      "classId": "10",
+      "phrase": "Univalle",
+      "originalName": "lsc-signs-dataset/raw/univalle/10_00_000.mp4",
+      "originalSha256": "808ed6adbea6866d33fbe9eac9a8efa6f782625a84761d81044d4a5c37c6ac37",
+      "originalBytes": 12584404,
+      "convertedName": "10-univalle.mp4",
+      "convertedSha256": "87b77c50d3b8f58876dbe62b330eff54dc7e3a50eea6e9a53956929188e8b3a0",
+      "convertedBytes": 739794,
+      "durationMs": 8141,
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "transformation": "Selected signer 00 recording; converted MP4 H.264 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 24, faststart; audio removed; no trim, mirror, speed change, or looping added. This clip adaptation is distributed under CC BY-SA 4.0."
+    }
+  ],
+  "originalClipCount": 11,
+  "omittedDuplicates": [
+    {
+      "classId": "00",
+      "phrase": "Adiós",
+      "convertedName": "00-adios.mp4",
+      "convertedSha256": "ded825691a3164c278d21a083ee90e15388c25867c8dc6d8354c61db965c792c",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0031",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "02",
+      "phrase": "Buenas noches",
+      "convertedName": "02-buenas-noches.mp4",
+      "convertedSha256": "731fe13245b6dabd8c650489cda9d04cc23474a76cb6797c32608df100fa3092",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0003",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "03",
+      "phrase": "Buenas tardes",
+      "convertedName": "03-buenas-tardes.mp4",
+      "convertedSha256": "5f6a92f7deffb55d2434f520a8de5d3d28b7f6d1c71dc589f51d714e23fe0e21",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0002",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "04",
+      "phrase": "Buenos días",
+      "convertedName": "04-buenos-dias.mp4",
+      "convertedSha256": "0da85fe4e3bbbdeaca88c4475e5d1cfb4f5bb4841ad88ae96c9d1b35cb1acdbc",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0001",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "05",
+      "phrase": "Gracias",
+      "convertedName": "05-gracias.mp4",
+      "convertedSha256": "ba172297fe957a05b4ac1c95031064ea8bb39da449fb4440be475906afb3a09d",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0000",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "06",
+      "phrase": "Hola",
+      "convertedName": "06-hola.mp4",
+      "convertedSha256": "b462facc64ca2585eb65f2ea750bef68694ef7510e1ef2c7e1b9bd6eb842a7c7",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0030",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "07",
+      "phrase": "Nombre",
+      "convertedName": "07-nombre.mp4",
+      "convertedSha256": "24bd850cee48e18c052550579196fafde9fd2f931dc4a3aa2807c770cef1b459",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0005",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "08",
+      "phrase": "Por favor",
+      "convertedName": "08-por-favor.mp4",
+      "convertedSha256": "10642666af370991e2945f880a1f04ee1e16e36a0c9db25d37738f72e56dada2",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0032",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "09",
+      "phrase": "Trabajo",
+      "convertedName": "09-trabajo.mp4",
+      "convertedSha256": "fd6907eaa0d3b24eafa71048980b307ee0b64be786435e6e4358bd91d44ac9df",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0006",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    }
+  ]
+}

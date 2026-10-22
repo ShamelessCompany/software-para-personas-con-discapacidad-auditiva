@@ -49,3 +49,11 @@ Construir software practico que elimine barreras de comunicacion en tiempo real 
   1. Base de datos SQLite local con al menos 150 señas basicas en video corto optimizado (menos de 500 KB por clip).
   2. Buscador en tiempo real por palabra, categoria (saludos, tecnologia, emergencias, numeros) o letra.
   3. Reproductor con control de velocidad lenta (0.5x) y bucle para facilitar el aprendizaje visual.
+
+---
+
+## Aplicación académica disponible: SenaLSC
+
+[SenaLSC](SenaLSC/README.md) es una aplicación Electron existente para subtítulos locales en español y apoyo visual LSC opcional. Es un proyecto académico no oficial: no traduce conversaciones completas a LSC ni reemplaza a un intérprete, y no implica que todos los MVP anteriores estén implementados. La prueba física de Windows con micrófono sigue pendiente; el desarrollo Linux admite ASR preparado, pero el AppImage no ofrece escucha real.
+
+Para instalar, verificar y proponer mejoras, consulte [CONTRIBUTING.md](CONTRIBUTING.md). El código es MIT, pero los videos conservan sus propias licencias; EXPRESA es académico/no comercial y sin derivados. Revise [los avisos de terceros](SenaLSC/THIRD_PARTY_NOTICES.md) antes de redistribuir o planear uso comercial.

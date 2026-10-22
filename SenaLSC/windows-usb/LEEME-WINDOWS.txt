@@ -1,0 +1,27 @@
+SenaLSC Kit USB histórico 0.1.0
+NO USAR COMO ENTREGA ACTUAL
+
+Este directorio conserva scripts históricos de preparación. La entrega recomendada está en `release/SenaLSC-Portable-Completo-0.1.0-x64.exe`; consulte `release/LEEME-SENALSC-WINDOWS.txt` para su tamaño y SHA-256 vigentes.
+
+Requisito: PC con Windows x64 y permiso de micrófono. No requiere Internet, Python, terminal ni instalación.
+
+1. Copie `SenaLSC-Portable-Completo-0.1.0-x64.exe` al equipo Windows.
+2. Haga doble clic en el EXE y permita el acceso al micrófono.
+3. Elija el dispositivo, pulse `Probar micrófono` y confirme audio.
+4. Pulse `Iniciar subtítulos`. La escucha nunca inicia automáticamente.
+
+El EXE contiene Electron, Python 3.12.10 embebible x64, Vosk 0.3.45, el modelo Ligero, 181 videos/181 conceptos canónicos, manifiestos y atribuciones.
+
+El tamaño y hash antiguos se retiraron para evitar confundir este kit con el portable vigente.
+Catálogo: 181 videos, 181 claves canónicas, 0 duplicadas y 0 assets huérfanos.
+
+SmartScreen puede advertir porque el candidato y el sidecar no están firmados. Revise el nombre y SHA256SUMS.txt; este paquete no desactiva SmartScreen, antivirus ni permisos.
+
+Limitaciones:
+- Este paquete fue construido e inspeccionado desde Linux, pero NO fue ejecutado ni validado nativamente en Windows.
+- El self-test comprueba el motor Vosk, no el micrófono. La validación final exige hablar y confirmar subtítulos en una PC Windows x64.
+- El modelo Ligero prioriza portabilidad; el perfil Preciso requiere el modelo grande administrado por separado.
+- Los subtítulos automáticos pueden contener errores. El apoyo visual son signos aislados y no reemplaza interpretación humana ni traducción gramatical LSC.
+- Los 129 videos EXPRESA son para uso académico/no comercial, sin derivados, y permanecen excluidos hasta aceptar su opción dentro de Biblioteca LSC.
+
+SmartScreen puede advertir porque el ejecutable no tiene firma de editor. Verifique el SHA-256 publicado antes de abrirlo.

@@ -1,0 +1,3616 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T00:32:50.762Z",
+  "normalization": "NFD sin tildes, minúsculas es-CO, puntuación a espacios, espacios compactados; alias explícito trabajo -> trabajar.",
+  "priority": [
+    "validated importado/autorizado",
+    "LSC50 academic",
+    "UniValle academic",
+    "EXPRESA community"
+  ],
+  "before": {
+    "videos": 190,
+    "concepts": 181,
+    "duplicateVariants": 9
+  },
+  "currentInventory": {
+    "videos": 181,
+    "manifestedVideos": 181
+  },
+  "after": {
+    "videos": 181,
+    "concepts": 181,
+    "duplicateCanonicalKeys": 0,
+    "orphanVideos": [],
+    "missingVideos": []
+  },
+  "duplicates": [
+    {
+      "classId": "00",
+      "phrase": "Adiós",
+      "convertedName": "00-adios.mp4",
+      "convertedSha256": "ded825691a3164c278d21a083ee90e15388c25867c8dc6d8354c61db965c792c",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0031",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "02",
+      "phrase": "Buenas noches",
+      "convertedName": "02-buenas-noches.mp4",
+      "convertedSha256": "731fe13245b6dabd8c650489cda9d04cc23474a76cb6797c32608df100fa3092",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0003",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "03",
+      "phrase": "Buenas tardes",
+      "convertedName": "03-buenas-tardes.mp4",
+      "convertedSha256": "5f6a92f7deffb55d2434f520a8de5d3d28b7f6d1c71dc589f51d714e23fe0e21",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0002",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "04",
+      "phrase": "Buenos días",
+      "convertedName": "04-buenos-dias.mp4",
+      "convertedSha256": "0da85fe4e3bbbdeaca88c4475e5d1cfb4f5bb4841ad88ae96c9d1b35cb1acdbc",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0001",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "05",
+      "phrase": "Gracias",
+      "convertedName": "05-gracias.mp4",
+      "convertedSha256": "ba172297fe957a05b4ac1c95031064ea8bb39da449fb4440be475906afb3a09d",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0000",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "06",
+      "phrase": "Hola",
+      "convertedName": "06-hola.mp4",
+      "convertedSha256": "b462facc64ca2585eb65f2ea750bef68694ef7510e1ef2c7e1b9bd6eb842a7c7",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0030",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "07",
+      "phrase": "Nombre",
+      "convertedName": "07-nombre.mp4",
+      "convertedSha256": "24bd850cee48e18c052550579196fafde9fd2f931dc4a3aa2807c770cef1b459",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0005",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "08",
+      "phrase": "Por favor",
+      "convertedName": "08-por-favor.mp4",
+      "convertedSha256": "10642666af370991e2945f880a1f04ee1e16e36a0c9db25d37738f72e56dada2",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0032",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    },
+    {
+      "classId": "09",
+      "phrase": "Trabajo",
+      "convertedName": "09-trabajo.mp4",
+      "convertedSha256": "fd6907eaa0d3b24eafa71048980b307ee0b64be786435e6e4358bd91d44ac9df",
+      "source": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "canonicalReplacementId": "lsc50-0006",
+      "reason": "Omitido físicamente porque LSC50 aporta el concepto canónico de mayor prioridad."
+    }
+  ],
+  "entries": [
+    {
+      "canonicalKey": "a",
+      "id": "expresa-alfabeto-a",
+      "label": "A",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/a.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/a.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "abuelo",
+      "id": "lsc50-0016",
+      "label": "Abuelo",
+      "source": "LSC50",
+      "storedPath": "lsc50/0016-abuelo.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "aburrido",
+      "id": "lsc50-0023",
+      "label": "Aburrido",
+      "source": "LSC50",
+      "storedPath": "lsc50/0023-aburrido.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "adios",
+      "id": "lsc50-0031",
+      "label": "Adiós",
+      "source": "LSC50",
+      "storedPath": "lsc50/0031-adios.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "agua",
+      "id": "expresa-comidas_bebidas-agua",
+      "label": "Agua",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/agua.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/agua.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "amarillo",
+      "id": "expresa-colegio-amarillo",
+      "label": "Amarillo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/amarillo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/amarillo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "ambulancia",
+      "id": "expresa-tecnologia-ambulancia",
+      "label": "Ambulancia",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/ambulancia.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/ambulancia.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "arcoiris",
+      "id": "expresa-colegio-arcoiris",
+      "label": "Arcoiris",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/arcoiris.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/arcoiris.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "arroz",
+      "id": "expresa-comidas_bebidas-arroz",
+      "label": "Arroz",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/arroz.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/arroz.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "aspiradora",
+      "id": "expresa-tecnologia-aspiradora",
+      "label": "Aspiradora",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/aspiradora.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/aspiradora.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "avion",
+      "id": "expresa-tecnologia-avion",
+      "label": "Avion",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/avion.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/avion.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "azul",
+      "id": "expresa-colegio-azul",
+      "label": "Azul",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/azul.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/azul.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "b",
+      "id": "expresa-alfabeto-b",
+      "label": "B",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/b.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/b.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "baño",
+      "id": "expresa-hogar-bano",
+      "label": "Baño",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/bano.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/bano.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "barco",
+      "id": "expresa-tecnologia-barco",
+      "label": "Barco",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/barco.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/barco.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "bebida",
+      "id": "expresa-comidas_bebidas-bebida",
+      "label": "Bebida",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/bebida.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/bebida.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "bicicleta",
+      "id": "expresa-tecnologia-bicicleta",
+      "label": "Bicicleta",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/bicicleta.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/bicicleta.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "bien",
+      "id": "lsc50-0024",
+      "label": "Bien",
+      "source": "LSC50",
+      "storedPath": "lsc50/0024-bien.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "bienvenido",
+      "id": "lsc50-0034",
+      "label": "Bienvenido",
+      "source": "LSC50",
+      "storedPath": "lsc50/0034-bienvenido.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "blanco",
+      "id": "expresa-colegio-blanco",
+      "label": "Blanco",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/blanco.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/blanco.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "boca",
+      "id": "expresa-cuerpo-boca",
+      "label": "Boca",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/boca.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/boca.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "bonito",
+      "id": "univalle-01",
+      "label": "Bonito",
+      "source": "UniValle",
+      "storedPath": "univalle/01-bonito.mp4",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "provenance": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "transformation": "Selected signer 00 recording; converted MP4 H.264 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 24, faststart; audio removed; no trim, mirror, speed change, or looping added. This clip adaptation is distributed under CC BY-SA 4.0."
+    },
+    {
+      "canonicalKey": "brazo",
+      "id": "expresa-cuerpo-brazo",
+      "label": "Brazo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/brazo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/brazo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "buenas noches",
+      "id": "lsc50-0003",
+      "label": "Buenas noches",
+      "source": "LSC50",
+      "storedPath": "lsc50/0003-buenas-noches.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "buenas tardes",
+      "id": "lsc50-0002",
+      "label": "Buenas tardes",
+      "source": "LSC50",
+      "storedPath": "lsc50/0002-buenas-tardes.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "buenos dias",
+      "id": "lsc50-0001",
+      "label": "Buenos días",
+      "source": "LSC50",
+      "storedPath": "lsc50/0001-buenos-dias.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "bus",
+      "id": "expresa-tecnologia-bus",
+      "label": "Bus",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/bus.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/bus.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "c",
+      "id": "expresa-alfabeto-c",
+      "label": "C",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/c.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/c.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cabeza",
+      "id": "expresa-cuerpo-cabeza",
+      "label": "Cabeza",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/cabeza.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/cabeza.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cafe",
+      "id": "expresa-comidas_bebidas-cafe",
+      "label": "Café",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/cafe.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/cafe.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "calculadora",
+      "id": "expresa-tecnologia-calculadora",
+      "label": "Calculadora",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/calculadora.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/calculadora.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cama",
+      "id": "expresa-hogar-cama",
+      "label": "Cama",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/cama.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/cama.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "camara",
+      "id": "expresa-tecnologia-camara",
+      "label": "Cámara",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/camara.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/camara.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "camion",
+      "id": "expresa-tecnologia-camion",
+      "label": "Camión",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/camion.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/camion.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "carne",
+      "id": "expresa-comidas_bebidas-carne",
+      "label": "Carne",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/carne.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/carne.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "carro",
+      "id": "expresa-tecnologia-carro",
+      "label": "Carro",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/carro.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/carro.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cd",
+      "id": "expresa-tecnologia-cd",
+      "label": "Cd",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/cd.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/cd.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "celular",
+      "id": "expresa-tecnologia-celular",
+      "label": "Celular",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/celular.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/celular.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cero",
+      "id": "expresa-colegio-cero",
+      "label": "Cero",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/cero.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/cero.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cinco",
+      "id": "expresa-colegio-cinco",
+      "label": "Cinco",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/cinco.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/cinco.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cobija",
+      "id": "expresa-hogar-cobija",
+      "label": "Cobija",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/cobija.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/cobija.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cocina",
+      "id": "expresa-hogar-cocina",
+      "label": "Cocina",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/cocina.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/cocina.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "colegio",
+      "id": "expresa-colegio-colegio",
+      "label": "Colegio",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/colegio.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/colegio.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "comer",
+      "id": "lsc50-0007",
+      "label": "Comer",
+      "source": "LSC50",
+      "storedPath": "lsc50/0007-comer.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "comida",
+      "id": "expresa-comidas_bebidas-comida",
+      "label": "Comida",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/comida.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/comida.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "como",
+      "id": "lsc50-0044",
+      "label": "¿Cómo?",
+      "source": "LSC50",
+      "storedPath": "lsc50/0044-como.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "como estas",
+      "id": "lsc50-0026",
+      "label": "¿Cómo estás?",
+      "source": "LSC50",
+      "storedPath": "lsc50/0026-como-estas.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "computador",
+      "id": "expresa-tecnologia-computador",
+      "label": "Computador",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/computador.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/computador.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "con gusto",
+      "id": "lsc50-0033",
+      "label": "Con gusto",
+      "source": "LSC50",
+      "storedPath": "lsc50/0033-con-gusto.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "contento",
+      "id": "lsc50-0021",
+      "label": "Contento",
+      "source": "LSC50",
+      "storedPath": "lsc50/0021-contento.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "corazon",
+      "id": "expresa-cuerpo-corazon",
+      "label": "Corazón",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/corazon.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/corazon.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cuando",
+      "id": "lsc50-0042",
+      "label": "¿Cuándo?",
+      "source": "LSC50",
+      "storedPath": "lsc50/0042-cuando.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "cuatro",
+      "id": "expresa-colegio-cuatro",
+      "label": "Cuatro",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/cuatro.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/cuatro.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cuchara",
+      "id": "expresa-hogar-cuchara",
+      "label": "Cuchara",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/cuchara.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/cuchara.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cuchillo",
+      "id": "expresa-hogar-cuchillo",
+      "label": "Cuchillo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/cuchillo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/cuchillo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "cuerpo",
+      "id": "expresa-cuerpo-cuerpo",
+      "label": "Cuerpo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/cuerpo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/cuerpo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "d",
+      "id": "expresa-alfabeto-d",
+      "label": "D",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/d.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/d.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "dedo",
+      "id": "expresa-cuerpo-dedo",
+      "label": "Dedo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/dedo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/dedo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "diferente",
+      "id": "lsc50-0047",
+      "label": "Diferente",
+      "source": "LSC50",
+      "storedPath": "lsc50/0047-diferente.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "donde",
+      "id": "lsc50-0043",
+      "label": "¿Dónde?",
+      "source": "LSC50",
+      "storedPath": "lsc50/0043-donde.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "dormir",
+      "id": "expresa-cuerpo-dormir",
+      "label": "Dormir",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/dormir.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/dormir.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "dormitorio",
+      "id": "expresa-hogar-dormitorio",
+      "label": "Dormitorio",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/dormitorio.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/dormitorio.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "dos",
+      "id": "expresa-colegio-dos",
+      "label": "Dos",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/dos.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/dos.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "ducha",
+      "id": "expresa-hogar-ducha",
+      "label": "Ducha",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/ducha.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/ducha.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "e",
+      "id": "expresa-alfabeto-e",
+      "label": "E",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/e.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/e.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "equipo de sonido",
+      "id": "expresa-tecnologia-equipo-de-sonido",
+      "label": "Equipo de sonido",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/equipo_de_sonido.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/equipo_de_sonido.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "estufa",
+      "id": "expresa-tecnologia-estufa",
+      "label": "Estufa",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/estufa.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/estufa.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "f",
+      "id": "expresa-alfabeto-f",
+      "label": "F",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/f.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/f.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "familia",
+      "id": "lsc50-0010",
+      "label": "Familia",
+      "source": "LSC50",
+      "storedPath": "lsc50/0010-familia.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "feliz",
+      "id": "lsc50-0020",
+      "label": "Feliz",
+      "source": "LSC50",
+      "storedPath": "lsc50/0020-feliz.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "filmadora",
+      "id": "expresa-tecnologia-filmadora",
+      "label": "Filmadora",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/filmadora.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/filmadora.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "g",
+      "id": "expresa-alfabeto-g",
+      "label": "G",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/g.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/g.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "gracias",
+      "id": "lsc50-0000",
+      "label": "Gracias",
+      "source": "LSC50",
+      "storedPath": "lsc50/0000-gracias.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "h",
+      "id": "expresa-alfabeto-h",
+      "label": "H",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/h.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/h.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "hambre",
+      "id": "lsc50-0019",
+      "label": "Hambre",
+      "source": "LSC50",
+      "storedPath": "lsc50/0019-hambre.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "helicoptero",
+      "id": "expresa-tecnologia-helicoptero",
+      "label": "Helicóptero",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/helicoptero.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/helicoptero.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "hermano",
+      "id": "lsc50-0018",
+      "label": "Hermano",
+      "source": "LSC50",
+      "storedPath": "lsc50/0018-hermano.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "hijo",
+      "id": "expresa-hogar-hijo",
+      "label": "Hijo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/hijo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/hijo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "hogar",
+      "id": "expresa-hogar-hogar",
+      "label": "Hogar",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/hogar.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/hogar.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "hola",
+      "id": "lsc50-0030",
+      "label": "Hola",
+      "source": "LSC50",
+      "storedPath": "lsc50/0030-hola.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "hombre",
+      "id": "lsc50-0013",
+      "label": "Hombre",
+      "source": "LSC50",
+      "storedPath": "lsc50/0013-hombre.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "huevo",
+      "id": "expresa-comidas_bebidas-huevo",
+      "label": "Huevo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/huevo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/huevo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "i",
+      "id": "expresa-alfabeto-i",
+      "label": "I",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/i.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/i.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "impresora",
+      "id": "expresa-tecnologia-impresora",
+      "label": "Impresora",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/impresora.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/impresora.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "inodoro",
+      "id": "expresa-hogar-inodoro",
+      "label": "Inodoro",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/inodoro.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/inodoro.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "internet",
+      "id": "expresa-tecnologia-internet",
+      "label": "Internet",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/internet.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/internet.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "j",
+      "id": "expresa-alfabeto-j",
+      "label": "J",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/j.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/j.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "jugar",
+      "id": "expresa-cuerpo-jugar",
+      "label": "Jugar",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/jugar.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/jugar.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "jugo",
+      "id": "expresa-comidas_bebidas-jugo",
+      "label": "Jugo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/jugo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/jugo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "juicioso",
+      "id": "lsc50-0029",
+      "label": "Juicioso",
+      "source": "LSC50",
+      "storedPath": "lsc50/0029-juicioso.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "k",
+      "id": "expresa-alfabeto-k",
+      "label": "K",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/k.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/k.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "l",
+      "id": "expresa-alfabeto-l",
+      "label": "L",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/l.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/l.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "lampara",
+      "id": "expresa-hogar-lampara",
+      "label": "Lámpara",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/lampara.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/lampara.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "lavadora",
+      "id": "expresa-tecnologia-lavadora",
+      "label": "Lavadora",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/lavadora.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/lavadora.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "lavamanos",
+      "id": "expresa-hogar-lavamanos",
+      "label": "Lavamanos",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/lavamanos.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/lavamanos.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "leche",
+      "id": "expresa-comidas_bebidas-leche",
+      "label": "Leche",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/leche.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/leche.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "libro",
+      "id": "expresa-colegio-libro",
+      "label": "Libro",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/libro.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/libro.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "licuadora",
+      "id": "expresa-tecnologia-licuadora",
+      "label": "Licuadora",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/licuadora.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/licuadora.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "m",
+      "id": "expresa-alfabeto-m",
+      "label": "M",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/m.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/m.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "mal",
+      "id": "lsc50-0025",
+      "label": "Mal",
+      "source": "LSC50",
+      "storedPath": "lsc50/0025-mal.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "mama",
+      "id": "expresa-hogar-mama",
+      "label": "Mamá",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/mama.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/mama.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "mano",
+      "id": "expresa-cuerpo-mano",
+      "label": "Mano",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/mano.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/mano.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "marron",
+      "id": "expresa-colegio-marron",
+      "label": "Marron",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/marron.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/marron.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "mas o menos",
+      "id": "lsc50-0027",
+      "label": "Más o menos",
+      "source": "LSC50",
+      "storedPath": "lsc50/0027-mas-o-menos.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "mesa",
+      "id": "expresa-hogar-mesa",
+      "label": "Mesa",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/mesa.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/mesa.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "microondas",
+      "id": "expresa-tecnologia-microondas",
+      "label": "Microondas",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/microondas.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/microondas.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "morado",
+      "id": "expresa-colegio-morado",
+      "label": "Morado",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/morado.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/morado.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "moto",
+      "id": "expresa-tecnologia-moto",
+      "label": "Moto",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/moto.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/moto.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "mucho",
+      "id": "lsc50-0049",
+      "label": "Mucho",
+      "source": "LSC50",
+      "storedPath": "lsc50/0049-mucho.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "mujer",
+      "id": "lsc50-0012",
+      "label": "Mujer",
+      "source": "LSC50",
+      "storedPath": "lsc50/0012-mujer.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "multiplicar",
+      "id": "expresa-colegio-multiplicar",
+      "label": "Multiplicar",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/multiplicar.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/multiplicar.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "n",
+      "id": "expresa-alfabeto-n",
+      "label": "N",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/n.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/n.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "naranja",
+      "id": "expresa-colegio-naranja",
+      "label": "Naranja",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/naranja.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/naranja.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "nariz",
+      "id": "expresa-cuerpo-nariz",
+      "label": "Nariz",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/nariz.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/nariz.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "negro",
+      "id": "expresa-colegio-negro",
+      "label": "Negro",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/negro.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/negro.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "nevera",
+      "id": "expresa-tecnologia-nevera",
+      "label": "Nevera",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/nevera.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/nevera.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "niña",
+      "id": "lsc50-0015",
+      "label": "Niña",
+      "source": "LSC50",
+      "storedPath": "lsc50/0015-nina.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "niño",
+      "id": "lsc50-0014",
+      "label": "Niño",
+      "source": "LSC50",
+      "storedPath": "lsc50/0014-nino.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "nombre",
+      "id": "lsc50-0005",
+      "label": "Nombre",
+      "source": "LSC50",
+      "storedPath": "lsc50/0005-nombre.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "nueve",
+      "id": "expresa-colegio-nueve",
+      "label": "Nueve",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/nueve.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/nueve.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "nunca",
+      "id": "lsc50-0037",
+      "label": "Nunca",
+      "source": "LSC50",
+      "storedPath": "lsc50/0037-nunca.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "ñ",
+      "id": "expresa-alfabeto-enie",
+      "label": "Ñ",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/enie.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/enie.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "o",
+      "id": "expresa-alfabeto-o",
+      "label": "O",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/o.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/o.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "ocho",
+      "id": "expresa-colegio-ocho",
+      "label": "Ocho",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/ocho.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/ocho.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "ojo",
+      "id": "expresa-cuerpo-ojo",
+      "label": "Ojo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/ojo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/ojo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "olla",
+      "id": "expresa-hogar-olla",
+      "label": "Olla",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/olla.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/olla.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "p",
+      "id": "expresa-alfabeto-p",
+      "label": "P",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/p.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/p.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "pan",
+      "id": "expresa-comidas_bebidas-pan",
+      "label": "Pan",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/pan.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/pan.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "papa",
+      "id": "expresa-hogar-papa",
+      "label": "Papá",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/papa.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/papa.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "perdon",
+      "id": "lsc50-0035",
+      "label": "Perdón",
+      "source": "LSC50",
+      "storedPath": "lsc50/0035-perdon.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "permiso",
+      "id": "lsc50-0036",
+      "label": "Permiso",
+      "source": "LSC50",
+      "storedPath": "lsc50/0036-permiso.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "personas",
+      "id": "lsc50-0011",
+      "label": "Personas",
+      "source": "LSC50",
+      "storedPath": "lsc50/0011-personas.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "pie",
+      "id": "expresa-cuerpo-pie",
+      "label": "Pie",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/pie.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/pie.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "plancha",
+      "id": "expresa-tecnologia-plancha",
+      "label": "Plancha",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/plancha.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/plancha.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "poco",
+      "id": "lsc50-0009",
+      "label": "Poco",
+      "source": "LSC50",
+      "storedPath": "lsc50/0009-poco.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "por favor",
+      "id": "lsc50-0032",
+      "label": "Por favor",
+      "source": "LSC50",
+      "storedPath": "lsc50/0032-por-favor.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "por que",
+      "id": "lsc50-0045",
+      "label": "¿Por qué?",
+      "source": "LSC50",
+      "storedPath": "lsc50/0045-por-que.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "profesora",
+      "id": "expresa-colegio-profesora",
+      "label": "Profesora",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/profesora.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/profesora.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "pupitre",
+      "id": "expresa-colegio-pupitre",
+      "label": "Pupitre",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/pupitre.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/pupitre.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "q",
+      "id": "expresa-alfabeto-q",
+      "label": "Q",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/q.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/q.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "que",
+      "id": "lsc50-0041",
+      "label": "¿Qué?",
+      "source": "LSC50",
+      "storedPath": "lsc50/0041-que.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "quien",
+      "id": "lsc50-0046",
+      "label": "¿Quién?",
+      "source": "LSC50",
+      "storedPath": "lsc50/0046-quien.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "r",
+      "id": "expresa-alfabeto-r",
+      "label": "R",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/r.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/r.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "reir",
+      "id": "expresa-cuerpo-reir",
+      "label": "Reír",
+      "source": "EXPRESA",
+      "storedPath": "expresa/cuerpo_expresa/reir.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/cuerpo_expresa",
+        "fileUrl": "https://archive.org/download/cuerpo_expresa/reir.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "restar",
+      "id": "expresa-colegio-restar",
+      "label": "Restar",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/restar.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/restar.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "rojo",
+      "id": "expresa-colegio-rojo",
+      "label": "Rojo",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/rojo.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/rojo.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "rosado",
+      "id": "expresa-colegio-rosado",
+      "label": "Rosado",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/rosado.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/rosado.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "s",
+      "id": "expresa-alfabeto-s",
+      "label": "S",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/s.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/s.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "sala",
+      "id": "expresa-hogar-sala",
+      "label": "Sala",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/sala.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/sala.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "seis",
+      "id": "expresa-colegio-seis",
+      "label": "Seis",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/seis.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/seis.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "sentir",
+      "id": "lsc50-0028",
+      "label": "Sentir",
+      "source": "LSC50",
+      "storedPath": "lsc50/0028-sentir.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "seña",
+      "id": "lsc50-0004",
+      "label": "Seña",
+      "source": "LSC50",
+      "storedPath": "lsc50/0004-sena.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "siete",
+      "id": "expresa-colegio-siete",
+      "label": "Siete",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/siete.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/siete.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "sofa",
+      "id": "expresa-hogar-sofa",
+      "label": "Sofa",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/sofa.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/sofa.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "sopa",
+      "id": "expresa-comidas_bebidas-sopa",
+      "label": "Sopa",
+      "source": "EXPRESA",
+      "storedPath": "expresa/comidas_bebidas_expresa/sopa.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/comidas_bebidas_expresa",
+        "fileUrl": "https://archive.org/download/comidas_bebidas_expresa/sopa.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "sumar",
+      "id": "expresa-colegio-sumar",
+      "label": "Sumar",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/sumar.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/sumar.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "t",
+      "id": "expresa-alfabeto-t",
+      "label": "T",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/t.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/t.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "tablero",
+      "id": "expresa-colegio-tablero",
+      "label": "Tablero",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/tablero.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/tablero.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "tecnologia",
+      "id": "expresa-tecnologia-tecnologia",
+      "label": "Tecnología",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/tecnologia.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/tecnologia.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "telefono",
+      "id": "expresa-tecnologia-telefono",
+      "label": "Teléfono",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/telefono.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/telefono.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "television",
+      "id": "expresa-tecnologia-television",
+      "label": "Televisión",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/television.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/television.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "tenedor",
+      "id": "expresa-hogar-tenedor",
+      "label": "Tenedor",
+      "source": "EXPRESA",
+      "storedPath": "expresa/hogar_expresa/tenedor.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/hogar_expresa",
+        "fileUrl": "https://archive.org/download/hogar_expresa/tenedor.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "tio",
+      "id": "lsc50-0017",
+      "label": "Tío",
+      "source": "LSC50",
+      "storedPath": "lsc50/0017-tio.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "todos",
+      "id": "lsc50-0048",
+      "label": "Todos",
+      "source": "LSC50",
+      "storedPath": "lsc50/0048-todos.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "trabajar",
+      "id": "lsc50-0006",
+      "label": "Trabajar",
+      "source": "LSC50",
+      "storedPath": "lsc50/0006-trabajar.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "tren",
+      "id": "expresa-tecnologia-tren",
+      "label": "Tren",
+      "source": "EXPRESA",
+      "storedPath": "expresa/tecnologia_expresa/tren.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/tecnologia_expresa",
+        "fileUrl": "https://archive.org/download/tecnologia_expresa/tren.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "tres",
+      "id": "expresa-colegio-tres",
+      "label": "Tres",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/tres.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/tres.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "triste",
+      "id": "lsc50-0022",
+      "label": "Triste",
+      "source": "LSC50",
+      "storedPath": "lsc50/0022-triste.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "tu",
+      "id": "lsc50-0039",
+      "label": "Tú",
+      "source": "LSC50",
+      "storedPath": "lsc50/0039-tu.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "u",
+      "id": "expresa-alfabeto-u",
+      "label": "U",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/u.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/u.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "univalle",
+      "id": "univalle-10",
+      "label": "Univalle",
+      "source": "UniValle",
+      "storedPath": "univalle/10-univalle.mp4",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "provenance": {
+        "title": "Colombian Sign Language (SLC/csn) Signs Dataset",
+        "authors": [
+          "Juan José Rodriguez-Rodriguez",
+          "Wilfredo Alfonso-Morales"
+        ],
+        "institution": "Universidad del Valle · Univalle TV",
+        "year": 2023,
+        "url": "https://www.kaggle.com/datasets/juanrrai/colombian-sign-language-slc-signs-dataset"
+      },
+      "transformation": "Selected signer 00 recording; converted MP4 H.264 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 24, faststart; audio removed; no trim, mirror, speed change, or looping added. This clip adaptation is distributed under CC BY-SA 4.0."
+    },
+    {
+      "canonicalKey": "uno",
+      "id": "expresa-colegio-uno",
+      "label": "Uno",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/uno.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/uno.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "ustedes",
+      "id": "lsc50-0040",
+      "label": "Ustedes",
+      "source": "LSC50",
+      "storedPath": "lsc50/0040-ustedes.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "v",
+      "id": "expresa-alfabeto-v",
+      "label": "V",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/v.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/v.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "verde",
+      "id": "expresa-colegio-verde",
+      "label": "Verde",
+      "source": "EXPRESA",
+      "storedPath": "expresa/colegio_expresa/verde.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/colegio_expresa",
+        "fileUrl": "https://archive.org/download/colegio_expresa/verde.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "vivir",
+      "id": "lsc50-0008",
+      "label": "Vivir",
+      "source": "LSC50",
+      "storedPath": "lsc50/0008-vivir.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "w",
+      "id": "expresa-alfabeto-w",
+      "label": "W",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/w.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/w.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "x",
+      "id": "expresa-alfabeto-x",
+      "label": "X",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/x.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/x.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "y",
+      "id": "expresa-alfabeto-y",
+      "label": "Y",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/y.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/y.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    },
+    {
+      "canonicalKey": "yo",
+      "id": "lsc50-0038",
+      "label": "Yo",
+      "source": "LSC50",
+      "storedPath": "lsc50/0038-yo.mp4",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "title": "LSC50: Colombian Sign Language Video and Inertial Measurement Dataset",
+        "year": 2024,
+        "authors": [
+          "Christian Cifuentes-De la Portilla",
+          "Luis Felipe Giraldo",
+          "Brayan David Solórzano Quevedo"
+        ],
+        "doi": "10.6084/m9.figshare.27383016.v1",
+        "url": "https://figshare.com/articles/dataset/LSC50_Colombian_Sign_Language_Video_and_Inertial_Measurement_Dataset/27383016"
+      },
+      "transformation": "Selected one COLOR_BODY recording per class (volunteer 0000, repetition 0000); converted AVI MPEG-4 1920x1080 to MP4 H.264 1280x720, yuv420p, CRF 28, faststart; audio removed; no trim, mirror, speed change, or looping added."
+    },
+    {
+      "canonicalKey": "z",
+      "id": "expresa-alfabeto-z",
+      "label": "Z",
+      "source": "EXPRESA",
+      "storedPath": "expresa/alfabeto_expresa/z.mp4",
+      "license": {
+        "name": "CC BY-NC-ND 3.0 Unported",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "provenance": {
+        "itemUrl": "https://archive.org/details/alfabeto_expresa",
+        "fileUrl": "https://archive.org/download/alfabeto_expresa/z.mp4",
+        "attribution": "Jhonny Alejandro Pérez Rojas, con colaboración de Luz Adriana Ruiz González · Proyecto EXPRESA"
+      },
+      "transformation": "none"
+    }
+  ]
+}

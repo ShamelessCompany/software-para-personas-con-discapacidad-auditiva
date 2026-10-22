@@ -1,0 +1,36 @@
+appId: co.edu.sena.senalsc.demo
+productName: SenaLSC Demo
+asar: true
+directories:
+  output: release
+files:
+  - dist/**/*
+  - dist-electron/**/*
+  - package.json
+  - THIRD_PARTY_NOTICES.md
+extraMetadata:
+  desktopName: SenaLSC Demo
+  senalscDistribution: demo
+extraResources:
+  - from: assets/lsc
+    to: assets/lsc
+    filter:
+      - "**/*"
+  - from: assets/icons
+    to: assets/icons
+    filter:
+      - "icon*.png"
+      - "tray-*.png"
+  - from: assets/brand
+    to: assets/brand
+    filter:
+      - "*.png"
+      - README.md
+win:
+  icon: assets/icons/icon.ico
+  target:
+    - target: portable
+      arch:
+        - x64
+portable:
+  artifactName: SenaLSC-Demo-Portable-${version}-${arch}.${ext}
