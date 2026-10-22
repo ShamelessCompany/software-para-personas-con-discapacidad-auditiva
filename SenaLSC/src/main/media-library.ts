@@ -103,6 +103,8 @@ export class MediaLibrary {
   private importedEntries: VisualLibraryEntry[] = [];
   private bundledEnabled: Record<string, boolean> = {};
   private initialized = false;
+  private initialization: Promise<void> | undefined;
+  private mutationQueue: Promise<void> = Promise.resolve();
 
   constructor(
     private readonly paths: MediaLibraryPaths,
@@ -112,7 +114,17 @@ export class MediaLibrary {
     this.metadataPath = join(paths.dataDirectory, "media-library.json");
   }
 
-  async initialize(): Promise<void> {
+  initialize(): Promise<void> {
+    if (!this.initialization) {
+      this.initialization = this.load().catch((caught: unknown) => {
+        this.initialization = undefined;
+        throw caught;
+      });
+    }
+    return this.initialization;
+  }
+
+  private async load(): Promise<void> {
     if (this.initialized) return;
     await mkdir(this.mediaDirectory, { recursive: true });
     try {
@@ -142,7 +154,17 @@ export class MediaLibrary {
     return mediaStatus(this.demoDistribution);
   }
 
-  async import(sourcePath: string, rawDraft: unknown): Promise<VisualLibraryEntry> {
+  private transaction<T>(operation: () => Promise<T>): Promise<T> {
+    const result = this.mutationQueue.then(operation);
+    this.mutationQueue = result.then(() => undefined, () => undefined);
+    return result;
+  }
+
+  import(sourcePath: string, rawDraft: unknown): Promise<VisualLibraryEntry> {
+    return this.transaction(() => this.importEntry(sourcePath, rawDraft));
+  }
+
+  private async importEntry(sourcePath: string, rawDraft: unknown): Promise<VisualLibraryEntry> {
     await this.initialize();
     const draft = validateVisualMediaDraft(rawDraft);
     if (!draft) throw new Error("Los metadatos no son válidos o falta autorización para el estado validado.");
@@ -188,7 +210,11 @@ export class MediaLibrary {
     }
   }
 
-  async save(rawEntry: unknown): Promise<VisualLibraryEntry> {
+  save(rawEntry: unknown): Promise<VisualLibraryEntry> {
+    return this.transaction(() => this.saveEntry(rawEntry));
+  }
+
+  private async saveEntry(rawEntry: unknown): Promise<VisualLibraryEntry> {
     await this.initialize();
     const entry = validateVisualLibraryEntry(rawEntry);
     if (!entry) throw new Error("La entrada no es válida o no cumple la política de validación.");
@@ -215,7 +241,11 @@ export class MediaLibrary {
     return updated;
   }
 
-  async delete(id: string): Promise<void> {
+  delete(id: string): Promise<void> {
+    return this.transaction(() => this.deleteEntry(id));
+  }
+
+  private async deleteEntry(id: string): Promise<void> {
     await this.initialize();
     const entry = this.importedEntries.find((item) => item.id === id);
     if (!entry) throw new Error("Solo se pueden eliminar medios importados existentes.");

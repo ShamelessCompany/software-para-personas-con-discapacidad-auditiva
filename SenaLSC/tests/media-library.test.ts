@@ -71,6 +71,89 @@ describe("inspección segura de medios", () => {
 });
 
 describe("persistencia y borrado", () => {
+  async function fixture() {
+    const directory = await root();
+    const sources = [join(directory, "primera.png"), join(directory, "segunda.png")];
+    await Promise.all(sources.map((source) => writeFile(source, png())));
+    const paths = { dataDirectory: join(directory, "data"), bundledDirectory: join(directory, "bundled") };
+    const library = new MediaLibrary(paths, false);
+    return { sources, paths, library };
+  }
+
+  it("conserva ambos guardados concurrentes en memoria y tras reiniciar", async () => {
+    const { sources, paths, library } = await fixture();
+    const first = await library.import(sources[0]!, draft());
+    const second = await library.import(sources[1]!, draft());
+    const saved = await Promise.all([
+      library.save({ ...first, label: "Primera actualizada" }),
+      library.save({ ...second, label: "Segunda actualizada" }),
+    ]);
+    expect(saved.map((entry) => entry.label)).toEqual(["Primera actualizada", "Segunda actualizada"]);
+    for (const reader of [library, new MediaLibrary(paths, false)]) {
+      const entries = (await reader.list()).entries.filter((entry) => entry.media.source === "imported");
+      expect(entries).toHaveLength(2);
+      expect(entries).toEqual(expect.arrayContaining(saved));
+    }
+    for (const source of sources) expect(await readFile(source)).toEqual(png());
+  });
+
+  it("serializa las primeras importaciones y no resucita entradas borradas con otras mutaciones", async () => {
+    const { sources, paths, library } = await fixture();
+    const initialization = Promise.all([library.initialize(), library.initialize(), library.list()]);
+    const imported = await Promise.all(sources.map((source) => library.import(source, draft())));
+    await initialization;
+    expect(new Set(imported.map((entry) => entry.id)).size).toBe(2);
+    for (const reader of [library, new MediaLibrary(paths, false)]) {
+      const entries = (await reader.list()).entries.filter((entry) => entry.media.source === "imported");
+      expect(entries).toHaveLength(2);
+      expect(entries).toEqual(expect.arrayContaining(imported));
+    }
+    const [deleted, retained] = imported;
+    const bundled = (await library.list()).entries.find((entry) => entry.media.source === "bundled")!;
+    const [, saved, added, toggled] = await Promise.all([
+      library.delete(deleted!.id),
+      library.save({ ...retained!, label: "Conservada" }),
+      library.import(sources[0]!, draft()),
+      library.save({ ...bundled, enabled: !bundled.enabled }),
+    ]);
+    expect(toggled.enabled).toBe(!bundled.enabled);
+    expect(saved.label).toBe("Conservada");
+    expect(added.id).not.toBe(retained!.id);
+    for (const reader of [library, new MediaLibrary(paths, false)]) {
+      const listed = (await reader.list()).entries;
+      expect(listed.find((entry) => entry.id === bundled.id)?.enabled).toBe(toggled.enabled);
+      const entries = listed.filter((entry) => entry.media.source === "imported");
+      expect(entries).toHaveLength(2);
+      expect(entries).toEqual(expect.arrayContaining([saved, added]));
+      expect(await reader.resolve(deleted!.id)).toBeNull();
+      expect(await reader.resolve(saved.id)).not.toBeNull();
+      expect(await reader.resolve(added.id)).not.toBeNull();
+    }
+    for (const source of sources) expect(await readFile(source)).toEqual(png());
+  });
+
+  it("rechaza metadatos sin cambiar datos ni conteos y permite continuar la cola", async () => {
+    const { sources, paths, library } = await fixture();
+    const imported = await library.import(sources[0]!, draft());
+    const before = await library.list();
+    await expect(library.save({ ...imported, label: "" })).rejects.toThrow(
+      "La entrada no es válida o no cumple la política de validación.",
+    );
+    expect(await library.list()).toEqual(before);
+    expect(await new MediaLibrary(paths, false).list()).toEqual(before);
+    const rejected = library.save({ ...imported, media: { ...imported.media, uri: "otra.png" } });
+    const pending = library.save({ ...imported, label: "Actualizada después del rechazo" });
+    await expect(rejected).rejects.toThrow("No se pueden cambiar los datos administrados del archivo.");
+    const saved = await pending;
+    for (const reader of [library, new MediaLibrary(paths, false)]) {
+      const entries = (await reader.list()).entries;
+      expect(entries).toHaveLength(before.entries.length);
+      expect(entries.find((entry) => entry.id === imported.id)).toEqual(saved);
+    }
+    expect(saved.label).toBe("Actualizada después del rechazo");
+    expect(await readFile(sources[0]!)).toEqual(png());
+  });
+
   it("persiste atómicamente y recarga los metadatos", async () => {
     const directory = await root();
     const source = join(directory, "imagen.png");
